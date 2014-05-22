@@ -1,0 +1,1506 @@
+cdp	nprep	nom_prep	cantidad	num_porc	cod_ec
+486	Viche de pescado	pescado albacora	227	1	218
+486	Viche de pescado	mani molido	200	1	67
+486	Viche de pescado	choclo tierno	141	1	106
+486	Viche de pescado	aceite de palma	24	1	440
+486	Viche de pescado	cebolla paiteña	270	1	92
+486	Viche de pescado	ajo	12	1	80
+486	Viche de pescado	pimiento verde	72	1	119
+486	Viche de pescado	plátano verde	231	1	197
+486	Viche de pescado	yuca	611	1	135
+486	Viche de pescado	leche entera	240	1	387
+486	Viche de pescado	agua	2400	1	878
+486	Viche de pescado	aliño	13	1	870
+486	Viche de pescado	comino	4.5	1	871
+486	Viche de pescado	culantro	28	1	97
+486	Viche de pescado	sal	12	1	875
+486	Viche de pescado	pimienta	1.5	1	873
+507	cebiche de camarón con arroz	camarón	30	8	232
+507	cebiche de camarón con arroz	cebolla paiteña	30	8	92
+507	cebiche de camarón con arroz	tomate riñón	40	8	110
+507	cebiche de camarón con arroz	jugo de limón	10	8	169
+507	cebiche de camarón con arroz	aceite vegetal	10	8	444
+507	cebiche de camarón con arroz	salsa de tomate	17	8	746
+507	cebiche de camarón con arroz	culantro	3	8	97
+507	cebiche de camarón con arroz	mostaza	5	8	741
+507	cebiche de camarón con arroz	jugo de naranja	90	8	181
+507	cebiche de camarón con arroz	sal 	0.5	8	875
+507	cebiche de camarón con arroz	pimienta	0.5	8	873
+507	cebiche de camarón con arroz	canguil	36	8	39
+507	cebiche de camarón con arroz	tostado	20	8	35
+507	cebiche de camarón con arroz	chifles	20	8	836
+507	cebiche de camarón con arroz	pescado	30	8	223
+507	cebiche de camarón con arroz	concha	40	8	257
+507	cebiche de camarón con arroz	arroz	113	8	7
+507	cebiche de camarón con arroz	aceite 	2	8	440
+507	cebiche de camarón con arroz	sal	1.5	8	875
+466	Bolón de chicharrón y queso	aceite de palma	10	1	440
+466	Bolón de chicharrón y queso	chicharrón	30	1	260
+466	Bolón de chicharrón y queso	plátano verde	80	1	197
+466	Bolón de chicharrón y queso	sal	1.5	1	875
+466	Bolón de chicharrón y queso	manteca de cerdo	6	1	447
+466	Bolón de chicharrón y queso	queso fresco	30	1	412
+466	Bolón de chicharrón y queso	comino	0.2	1	871
+467	Caldo de bagre	bagre	1000	8	222
+467	Caldo de bagre	mani molido	200	8	69
+467	Caldo de bagre	yuca	350	8	135
+467	Caldo de bagre	plátano verde	400	8	197
+467	Caldo de bagre	ajo	3	8	80
+467	Caldo de bagre	agua	3500	8	878
+467	Caldo de bagre	aceite	12	8	440
+467	Caldo de bagre	achiote	9	8	889
+467	Caldo de bagre	comino	5	8	871
+467	Caldo de bagre	sal	12	8	875
+468	Encebollado	pescado albacora	908	10	218
+468	Encebollado	yuca	952	10	135
+468	Encebollado	tomate riñón	612	10	110
+468	Encebollado	pimiento verde	184	10	119
+468	Encebollado	cebolla paiteña	540	10	92
+468	Encebollado	ajo	12	10	80
+468	Encebollado	comino	3	10	871
+468	Encebollado	sal	15	10	875
+468	Encebollado	cebolla paiteña	50	10	92
+468	Encebollado	limón sutil	288	10	168
+468	Encebollado	aceite	27	10	440
+468	Encebollado	culantro	56	10	97
+468	Encebollado	agua	1700	10	878
+469	Pescado frito	pescado dorado	90	1	269
+469	Pescado frito	aceite	5	1	440
+469	Pescado frito	ajo	3	1	80
+469	Pescado frito	comino	0.2	1	871
+469	Pescado frito	sal 	0.2	1	875
+469	Pescado frito	pimienta	0.2	1	873
+470	Guatita	panza de res	681	6	298
+470	Guatita	agua	1000	6	878
+470	Guatita	culantro	26	6	97
+470	Guatita	papa	600	6	133
+470	Guatita	aceite	14	6	440
+470	Guatita	leche entera	240	6	387
+470	Guatita	cebolla paiteña	96	6	92
+470	Guatita	mani molido	120	6	69
+470	Guatita	cebolla blanca	67	6	91
+470	Guatita	pimienta 	1.5	6	873
+470	Guatita	pimiento verde	72	6	119
+470	Guatita	comino 	4.5	6	871
+470	Guatita	aguacate	67.83	6	76
+470	Guatita	lechuga	69	6	111
+470	Guatita	arroz	500	6	7
+470	Guatita	ajo	6	6	80
+470	Guatita	sal 	9	6	875
+471	Caldo de Manguera	tripa (vísceras)	400	10	372
+471	Caldo de Manguera	limón sutil	170	10	168
+471	Caldo de Manguera	cebolla paiteña	576	10	92
+471	Caldo de Manguera	cebolla blanca	63	10	91
+471	Caldo de Manguera	pimiento verde	216	10	119
+471	Caldo de Manguera	tomate riñón	476	10	110
+471	Caldo de Manguera	ajo	18	10	80
+471	Caldo de Manguera	culantro	26	10	96
+471	Caldo de Manguera	perejil	26	10	117
+471	Caldo de Manguera	sangre de cerdo	600	10	361
+471	Caldo de Manguera	arroz	454	10	7
+471	Caldo de Manguera	col	120	10	98
+471	Caldo de Manguera	plátano verde	1386	10	197
+471	Caldo de Manguera	carne de cerdo	908	10	243
+471	Caldo de Manguera	maní	75	10	69
+473	Mazamorra	leche entera	240	1	387
+473	Mazamorra	harina de maíz	17	1	23
+473	Mazamorra	panela	6	1	464
+473	Mazamorra	canela	1	1	882
+475	Maito	tilapia	250	1	369
+475	Maito	verde	80	1	197
+475	Maito	yuca	80	1	135
+475	Maito	cebolla paiteña	20	1	92
+475	Maito	tomate riñón	63	1	110
+475	Maito	sal	1.5	1	875
+477	Pincho de chontacuro	chontacuros	25	1	375
+477	Pincho de chontacuro	sal	1.5	1	875
+478	Chicha de Chonta	chontaduro	850	16	153
+478	Chicha de Chonta	jugo de caña	3000	16	144
+479	Chicha de Yuca	azúcar	168	16	458
+479	Chicha de Yuca	yuca	728	16	135
+479	Chicha de Yuca	camote	122	16	127
+479	Chicha de Yuca	agua	3000	16	878
+480	galletas de almidón	almidón de yuca	470	100	1
+480	galletas de almidón	mantequilla	113.5	100	448
+480	galletas de almidón	azúcar	166.6	100	458
+480	galletas de almidón	yema de huevo	32	100	212
+480	galletas de almidón	canela en polvo	1.5	100	882
+481	Cocada de leche	coco	364	24	957
+481	Cocada de leche	leche entera	480	24	387
+481	Cocada de leche	azúcar	454	24	458
+481	Cocada de leche	huevo yema	64	24	212
+481	Cocada de leche	mantequilla	56	24	448
+481	Cocada de leche	jugo de limón	10	24	169
+482	Dulce de Guineo	platano	1000	58	195
+482	Dulce de Guineo	miel de caña	620	58	456
+482	Dulce de Guineo	zumo de naranja	110	58	181
+482	Dulce de Guineo	canela 	10	58	882
+484	Caldo de Habas verdes con chancho	cebolla paiteña	90	8	92
+484	Caldo de Habas verdes con chancho	pierna de cerdo	500	8	246
+484	Caldo de Habas verdes con chancho	habas tiernas 	1000	8	55
+484	Caldo de Habas verdes con chancho	ajo	3	8	80
+484	Caldo de Habas verdes con chancho	perejil	1	8	117
+484	Caldo de Habas verdes con chancho	agua	2000	8	878
+484	Caldo de Habas verdes con chancho	aceite de palma	18	8	440
+484	Caldo de Habas verdes con chancho	sal	12	8	875
+485	Viche de camarón	camarón	600	8	232
+485	Viche de camarón	mani molido	200	8	67
+485	Viche de camarón	choclo tierno	141	8	106
+485	Viche de camarón	aceite de palma	24	8	440
+485	Viche de camarón	cebolla paiteña	270	8	92
+485	Viche de camarón	ajo	12	8	80
+485	Viche de camarón	pimiento verde	72	8	119
+485	Viche de camarón	plátano verde	300	8	197
+485	Viche de camarón	yuca	611	8	135
+485	Viche de camarón	leche entera	240	8	387
+485	Viche de camarón	agua	2400	8	878
+485	Viche de camarón	aliño	13	8	870
+485	Viche de camarón	comino	4.5	8	871
+485	Viche de camarón	culantro	28	8	97
+485	Viche de camarón	sal	12	8	875
+485	Viche de camarón	pimienta	1.5	8	873
+487	Viche de mondongo	Menudo de res	400	8	298
+487	Viche de mondongo	mani molido	200	8	67
+487	Viche de mondongo	choclo tierno	141	8	106
+487	Viche de mondongo	aceite de palma	24	8	440
+487	Viche de mondongo	cebolla paiteña	270	8	92
+487	Viche de mondongo	ajo	12	8	80
+487	Viche de mondongo	pimiento verde	72	8	119
+487	Viche de mondongo	plátano verde	231	8	197
+487	Viche de mondongo	yuca	611	8	135
+487	Viche de mondongo	leche entera	240	8	387
+487	Viche de mondongo	agua	2400	8	878
+487	Viche de mondongo	aliño	13	8	870
+487	Viche de mondongo	comino	4.5	8	871
+487	Viche de mondongo	culantro	28	8	97
+487	Viche de mondongo	sal	12	8	875
+487	Viche de mondongo	pimienta	1.5	8	873
+488	Bollo de maní	cebolla paiteña	254	10	92
+488	Bollo de maní	plátano verde	924	10	197
+488	Bollo de maní	maní	300	10	69
+488	Bollo de maní	ajo	6	10	80
+488	Bollo de maní	comino	5	10	871
+488	Bollo de maní	tomate riñón	153	10	110
+488	Bollo de maní	pimiento verde	72	10	119
+488	Bollo de maní	achiote	56	10	889
+488	Bollo de maní	agua	720	10	878
+488	Bollo de maní	aliño	5	10	870
+488	Bollo de maní	sal	5	10	875
+489	Bollo de carne	cebolla paiteña	254	10	92
+489	Bollo de carne	plátano verde	924	10	197
+489	Bollo de carne	maní	300	10	69
+489	Bollo de carne	ajo	6	10	80
+489	Bollo de carne	comino	5	10	871
+489	Bollo de carne	tomate riñón	153	10	110
+489	Bollo de carne	pimiento verde	72	10	119
+489	Bollo de carne	achiote	56	10	889
+489	Bollo de carne	agua	720	10	878
+489	Bollo de carne	aliño	5	10	870
+489	Bollo de carne	sal	5	10	875
+489	Bollo de carne	carne	227	10	238
+490	Bollo de pescado	cebolla paiteña	254	10	92
+490	Bollo de pescado	plátano verde	924	10	197
+490	Bollo de pescado	maní	300	10	69
+490	Bollo de pescado	ajo	6	10	80
+490	Bollo de pescado	comino	5	10	871
+490	Bollo de pescado	tomate riñón	153	10	110
+490	Bollo de pescado	pimiento verde	72	10	119
+490	Bollo de pescado	achiote	56	10	889
+490	Bollo de pescado	agua	720	10	878
+490	Bollo de pescado	aliño	5	10	870
+490	Bollo de pescado	sal	5	10	875
+490	Bollo de pescado	pescado dorado	227	10	269
+491	Bollo de cuero de cerdo	cebolla paiteña	254	10	92
+491	Bollo de cuero de cerdo	plátano verde	924	10	197
+491	Bollo de cuero de cerdo	maní	300	10	69
+491	Bollo de cuero de cerdo	ajo	6	10	80
+491	Bollo de cuero de cerdo	comino	5	10	871
+491	Bollo de cuero de cerdo	tomate riñón	153	10	110
+491	Bollo de cuero de cerdo	pimiento verde	72	10	119
+491	Bollo de cuero de cerdo	achiote	56	10	889
+491	Bollo de cuero de cerdo	agua	720	10	878
+491	Bollo de cuero de cerdo	aliño	5	10	870
+491	Bollo de cuero de cerdo	sal	5	10	875
+491	Bollo de cuero de cerdo	cuero de cerdo	227	10	256
+493	corviche	tomate riñón	153	24	110
+493	corviche	pimiento verde	92	24	119
+493	corviche	cebolla paiteña	48	24	92
+493	corviche	plátano verde	1106	24	197
+493	corviche	maní 	168	24	69
+493	corviche	pescado dorado	500	24	269
+493	corviche	aceite de palma	120	24	440
+493	corviche	sal	3	24	875
+494	Cazuela de Pescado	pimiento rojo	60	6	118
+494	Cazuela de Pescado	pimiento verde	60	6	119
+494	Cazuela de Pescado	cebolla paiteña	115	6	92
+494	Cazuela de Pescado	cebolla blanca	30	6	91
+494	Cazuela de Pescado	culantro	6	6	97
+494	Cazuela de Pescado	plátano verde	360	6	197
+494	Cazuela de Pescado	maní	250	6	69
+494	Cazuela de Pescado	aceite de palma	60	6	440
+494	Cazuela de Pescado	pescado dorado	600	6	269
+494	Cazuela de Pescado	sal 	2	6	875
+494	Cazuela de Pescado	comino	1	6	871
+494	Cazuela de Pescado	agua 	2000	6	878
+494	Cazuela de Pescado	mantequilla	12	6	448
+495	seco de gallina criolla	arroz	908	10	7
+495	seco de gallina criolla	cebolla paiteña	381	10	92
+495	seco de gallina criolla	pimiento rojo	282	10	118
+495	seco de gallina criolla	plátano maduro	407	10	193
+495	seco de gallina criolla	gallina criolla	1816	10	273
+495	seco de gallina criolla	manteca de cerdo	7	10	447
+495	seco de gallina criolla	arveja tierna	454	10	95
+495	seco de gallina criolla	perejil	50	10	117
+495	seco de gallina criolla	ajo	15	10	80
+495	seco de gallina criolla	tomate riñón	595	10	110
+498	estofado de pescado	tomate riñón	306	5	110
+498	estofado de pescado	plátano verde	231	5	197
+498	estofado de pescado	pescado dorado	454	5	269
+498	estofado de pescado	ajo	3	5	80
+498	estofado de pescado	perejil	5	5	117
+498	estofado de pescado	cebolla paiteña	180	5	92
+498	estofado de pescado	comino	1	5	871
+498	estofado de pescado	sal	2	5	875
+498	estofado de pescado	aceite de palma	10	5	440
+499	bala	aceite de palma	18	1	440
+499	bala	plátano verde	80	1	197
+499	bala	sal	0.2	1	875
+499	bala	manteca de cerdo	6	1	447
+499	bala	comino	0.2	1	871
+500	bola de verde	plátano verde	924	6	197
+500	bola de verde	carne de cerdo	454	6	248
+500	bola de verde	comino	1	6	871
+500	bola de verde	sal 	5	6	875
+500	bola de verde	orégano	1	6	115
+504	tapao de pescado	pescado banderón	540	6	223
+504	tapao de pescado	plátano verde	1386	6	197
+504	tapao de pescado	agua	960	6	878
+504	tapao de pescado	limón	24	6	168
+504	tapao de pescado	ajo	18	6	80
+504	tapao de pescado	cebolla blanca	48	6	91
+504	tapao de pescado	cebolla paiteña	96	6	92
+504	tapao de pescado	pimiento verde	72	6	119
+504	tapao de pescado	tomate riñón	153	6	110
+504	tapao de pescado	culantro	52	6	97
+505	tapao arrecho	tomate riñón	153	6	110
+505	tapao arrecho	pimiento verde	92	6	119
+505	tapao arrecho	cebolla paiteña	180	6	92
+505	tapao arrecho	plátano verde	632	6	197
+505	tapao arrecho	pollo	227	6	327
+505	tapao arrecho	carne de cerdo	227	6	246
+505	tapao arrecho	chorizo	454	6	261
+505	tapao arrecho	agua	1200	6	878
+506	ensumacado de mariscos	pescado	908	10	277
+506	ensumacado de mariscos	camarón	454	10	232
+506	ensumacado de mariscos	concha	900	10	257
+506	ensumacado de mariscos	almejas	180	10	219
+506	ensumacado de mariscos	cangrejo	40	10	264
+506	ensumacado de mariscos	cebolla perla	107	10	90
+506	ensumacado de mariscos	cebolla blanca	12	10	91
+506	ensumacado de mariscos	pimiento verde	92	10	119
+506	ensumacado de mariscos	culantro	26	10	97
+506	ensumacado de mariscos	perejil	4	10	117
+506	ensumacado de mariscos	ajo	6	10	80
+506	ensumacado de mariscos	aceite de palma	40	10	440
+506	ensumacado de mariscos	tomate riñón	153	10	110
+506	ensumacado de mariscos	leche de coco	1000	10	151
+506	ensumacado de mariscos	achiote	5	10	889
+506	ensumacado de mariscos	sal	5	10	875
+506	ensumacado de mariscos	comino	2	10	871
+507	cebiche de camarón	camarón	80	1	232
+507	cebiche de camarón	cebolla paiteña	30	1	92
+507	cebiche de camarón	tomate riñón	40	1	110
+507	cebiche de camarón	jugo de limón	10	1	169
+507	cebiche de camarón	aceite vegetal	10	1	444
+507	cebiche de camarón	salsa de tomate	17	1	746
+507	cebiche de camarón	culantro	3	1	97
+507	cebiche de camarón	mostaza	5	1	741
+507	cebiche de camarón	jugo de naranja	90	1	181
+507	cebiche de camarón	sal 	0.5	1	875
+507	cebiche de camarón	pimienta	0.5	1	873
+507	cebiche de camarón	canguil	36	1	39
+507	cebiche de camarón	tostado	20	1	35
+507	cebiche de camarón	chifles	20	1	836
+508	cebiche de concha	concha	90	1	257
+508	cebiche de concha	cebolla paiteña	30	1	92
+508	cebiche de concha	tomate riñón	40	1	110
+508	cebiche de concha	jugo de limón	10	1	169
+508	cebiche de concha	aceite vegetal	10	1	444
+508	cebiche de concha	salsa de tomate	17	1	746
+508	cebiche de concha	culantro	3	1	97
+508	cebiche de concha	mostaza	5	1	741
+508	cebiche de concha	jugo de naranja	90	1	181
+508	cebiche de concha	sal 	0.5	1	875
+508	cebiche de concha	pimienta	0.5	1	873
+508	cebiche de concha	canguil	36	1	39
+508	cebiche de concha	tostado	20	1	35
+508	cebiche de concha	chifles	20	1	836
+509	cocada	coco	364	24	957
+509	cocada	maní	113.5	24	67
+509	cocada	azúcar	454	24	458
+509	cocada	agua de coco	480	24	150
+510	Librillo	panza de res	681	6	298
+510	Librillo	agua	1000	6	878
+510	Librillo	culantro	26	6	97
+510	Librillo	papa	681	6	133
+510	Librillo	aceite	18	6	440
+510	Librillo	leche entera	240	6	387
+510	Librillo	cebolla paiteña	96	6	92
+510	Librillo	mani molido	150	6	69
+510	Librillo	cebolla blanca	67	6	91
+510	Librillo	pimienta 	1.5	6	873
+510	Librillo	pimiento verde	72	6	119
+510	Librillo	comino 	4.5	6	871
+510	Librillo	aguacate	67.83	6	76
+510	Librillo	lechuga	69	6	111
+510	Librillo	arroz	678	6	7
+510	Librillo	ajo	6	6	80
+511	Empanada de pollo	harina de trigo	750	20	28
+511	Empanada de pollo	pimiento verde	50	20	119
+511	Empanada de pollo	cebolla blanca	42	20	91
+511	Empanada de pollo	arveja tierna	40	20	95
+511	Empanada de pollo	mantequilla	500	20	448
+511	Empanada de pollo	pollo	500	20	327
+511	Empanada de pollo	zanahoria amarilla	62	20	124
+511	Empanada de pollo	sal	10	20	875
+511	Empanada de pollo	azúcar	12	20	458
+511	Empanada de pollo	agua	960	20	878
+511	Empanada de pollo	huevo	106	20	213
+511	Empanada de pollo	pasas	50	20	852
+511	Empanada de pollo	aceite	40	20	440
+512	Empanada de carne	harina de trigo	750	20	28
+512	Empanada de carne	pimiento verde	50	20	119
+512	Empanada de carne	cebolla blanca	42	20	91
+512	Empanada de carne	arveja tierna	40	20	95
+512	Empanada de carne	mantequilla	500	20	448
+512	Empanada de carne	carne de res	500	20	241
+512	Empanada de carne	zanahoria amarilla	62	20	124
+512	Empanada de carne	sal	10	20	875
+512	Empanada de carne	azúcar	12	20	458
+512	Empanada de carne	agua	960	20	878
+512	Empanada de carne	huevo	106	20	213
+512	Empanada de carne	pasas	50	20	852
+512	Empanada de carne	aceite	40	20	440
+513	Empanada de camarón	harina de trigo	750	20	28
+513	Empanada de camarón	pimiento verde	50	20	119
+513	Empanada de camarón	cebolla blanca	42	20	91
+513	Empanada de camarón	arveja tierna	40	20	95
+513	Empanada de camarón	mantequilla	500	20	448
+513	Empanada de camarón	camarón	500	20	232
+513	Empanada de camarón	zanahoria amarilla	62	20	124
+513	Empanada de camarón	sal	10	20	875
+513	Empanada de camarón	azúcar	12	20	458
+513	Empanada de camarón	agua	960	20	878
+513	Empanada de camarón	huevo	106	20	213
+513	Empanada de camarón	pasas	50	20	852
+513	Empanada de camarón	aceite	40	20	440
+514	Colada Morada	agua	4800	20	878
+514	Colada Morada	mora	450	20	209
+514	Colada Morada	mortiño	450	20	142
+514	Colada Morada	naranjilla	200	20	183
+514	Colada Morada	canela	0.2	20	882
+514	Colada Morada	harina morada	278	20	23
+514	Colada Morada	babaco	380	20	138
+514	Colada Morada	piña	245	20	191
+514	Colada Morada	frutilla	227	20	155
+514	Colada Morada	azúcar	250	20	458
+515	Champús	harina de maíz	454	12	23
+515	Champús	piña	330	12	191
+515	Champús	babaco	770	12	138
+515	Champús	mote	144	12	37
+515	Champús	agua	2000	12	878
+515	Champús	panela	454	12	465
+515	Champús	canela	0.1	12	882
+515	Champús	membrillo	184	12	180
+515	Champús	naranjilla	300	12	183
+516	Morocho	morocho 	227	10	36
+516	Morocho	leche entera	2000	10	387
+516	Morocho	azúcar	454	10	458
+516	Morocho	canela	0.2	10	882
+517	seco de pollo	arroz	908	10	7
+517	seco de pollo	cebolla paiteña	381	10	92
+517	seco de pollo	pimiento rojo	282	10	118
+517	seco de pollo	plátano maduro	407	10	193
+517	seco de pollo	gallina criolla	1816	10	327
+517	seco de pollo	manteca de cerdo	7	10	447
+517	seco de pollo	arveja tierna	454	10	95
+517	seco de pollo	perejil	50	10	117
+517	seco de pollo	ajo	15	10	80
+517	seco de pollo	tomate riñón	595	10	110
+518	tortillas de maíz	harina de maíz	227	15	23
+518	tortillas de maíz	mantequilla	85	15	448
+518	tortillas de maíz	agua	180	15	878
+518	tortillas de maíz	sal	6	15	875
+518	tortillas de maíz	yema de huevo	16	15	212
+518	tortillas de maíz	queso	227	15	412
+519	conejo asado	conejo	2000	6	265
+519	conejo asado	papa	908	6	133
+519	conejo asado	mani molido	77	6	69
+519	conejo asado	leche entera	240	6	387
+519	conejo asado	comino	10	6	871
+519	conejo asado	sal	20	6	875
+519	conejo asado	ajo	30	6	80
+520	cuy asado	cuy	1000	4	268
+520	cuy asado	comino	5	4	871
+520	cuy asado	sal	10	4	875
+520	cuy asado	ajo	15	4	80
+521	papas con cuero	cuero de cerdo	454	12	256
+521	papas con cuero	achiote	20	12	889
+521	papas con cuero	cebolla blanca	48	12	91
+521	papas con cuero	culantro	3	12	97
+521	papas con cuero	papa	1816	12	133
+521	papas con cuero	pasta de mani	64	12	69
+521	papas con cuero	pimienta	0.5	12	873
+521	papas con cuero	sal	11	12	875
+521	papas con cuero	agua	3000	12	878
+521	papas con cuero	aguacate	128.44	12	76
+522	cuy con papas	cuy	1000	4	268
+522	cuy con papas	comino	5	4	871
+522	cuy con papas	sal	10	4	875
+522	cuy con papas	ajo	15	4	80
+522	cuy con papas	papa	908	4	133
+523	yahuarlocro	menudo borrego	400	8	298
+523	yahuarlocro	papas	1500	8	133
+523	yahuarlocro	cebolla blanca	240	8	91
+523	yahuarlocro	ajo	15	8	80
+523	yahuarlocro	comino	7.5	8	871
+523	yahuarlocro	pasta de maní	129	8	69
+523	yahuarlocro	culantro	6	8	97
+523	yahuarlocro	orégano	2	8	115
+523	yahuarlocro	achiote	54	8	889
+523	yahuarlocro	sal	30	8	875
+523	yahuarlocro	leche entera	1000	8	387
+523	yahuarlocro	agua	2000	8	878
+523	yahuarlocro	pimienta	1	8	873
+523	yahuarlocro	sangre de borrego	300	8	361
+523	yahuarlocro	aceite de palma	24	8	440
+523	yahuarlocro	aguacate	64	8	76
+525	fritada	costilla de cerdo	908	6	246
+525	fritada	agua	120	6	878
+525	fritada	ajo	12	6	80
+525	fritada	cebolla blanca	48	6	91
+525	fritada	maduro	244.5	6	193
+525	fritada	mote	147.8	6	37
+525	fritada	papa	1080	6	133
+525	fritada	tostado	246	6	35
+526	arepas de zapallo	harina de maíz	100	6	23
+526	arepas de zapallo	zapallo	500	6	89
+526	arepas de zapallo	pasas	6.2	6	852
+526	arepas de zapallo	manteca de cerdo	69	6	447
+526	arepas de zapallo	queso fresco	45	6	412
+526	arepas de zapallo	huevo	53	6	213
+526	arepas de zapallo	azúcar	30	6	458
+526	arepas de zapallo	panela	27	6	465
+527	sango de camarón	camarón	454	6	232
+527	sango de camarón	cebolla paiteña	96	6	92
+527	sango de camarón	tomate riñón	238	6	110
+527	sango de camarón	pimiento verde	72	6	119
+527	sango de camarón	plátano verde	231	6	197
+527	sango de camarón	ajo	9	6	80
+527	sango de camarón	perejil	1	6	117
+527	sango de camarón	sal	14	6	875
+527	sango de camarón	pimienta	3	6	873
+527	sango de camarón	agua	120	6	878
+527	sango de camarón	arroz	681	6	7
+527	sango de camarón	comino	3	6	871
+527	sango de camarón	leche	240	6	387
+528	cebiche de pescado	pescado	100	1	277
+528	cebiche de pescado	cebolla paiteña	30	1	92
+528	cebiche de pescado	tomate riñón	40	1	110
+528	cebiche de pescado	jugo de limón	10	1	169
+528	cebiche de pescado	aceite vegetal	10	1	444
+528	cebiche de pescado	salsa de tomate	17	1	746
+528	cebiche de pescado	culantro	3	1	97
+528	cebiche de pescado	mostaza	5	1	741
+528	cebiche de pescado	jugo de naranja	90	1	181
+528	cebiche de pescado	sal 	0.5	1	875
+528	cebiche de pescado	pimienta	0.5	1	873
+528	cebiche de pescado	canguil	36	1	39
+528	cebiche de pescado	tostado	20	1	35
+528	cebiche de pescado	chifles	20	1	836
+529	carne con menestra de frejol y arroz	frejol	100	2	960
+529	carne con menestra de frejol y arroz	ajo	12	2	80
+529	carne con menestra de frejol y arroz	cebolla blanca	24	2	91
+529	carne con menestra de frejol y arroz	cebolla paiteña	40	2	92
+529	carne con menestra de frejol y arroz	plátano verde	346	2	197
+529	carne con menestra de frejol y arroz	tomate	119	2	110
+529	carne con menestra de frejol y arroz	aceite	10	2	440
+529	carne con menestra de frejol y arroz	sal	4	2	875
+529	carne con menestra de frejol y arroz	pimienta	0.2	2	873
+529	carne con menestra de frejol y arroz	arroz 	227	2	7
+529	carne con menestra de frejol y arroz	limón 	12	2	168
+529	carne con menestra de frejol y arroz	carne	196	2	241
+530	pescado apanado con menestra y arroz	frejol	100	2	960
+530	pescado apanado con menestra y arroz	ajo	12	2	80
+530	pescado apanado con menestra y arroz	cebolla blanca	24	2	91
+530	pescado apanado con menestra y arroz	cebolla paiteña	40	2	92
+530	pescado apanado con menestra y arroz	plátano verde	346	2	197
+530	pescado apanado con menestra y arroz	tomate riñón	119	2	110
+530	pescado apanado con menestra y arroz	aceite	10	2	440
+530	pescado apanado con menestra y arroz	pimienta	0.2	2	873
+530	pescado apanado con menestra y arroz	arroz	227	2	7
+530	pescado apanado con menestra y arroz	limón	12	2	168
+530	pescado apanado con menestra y arroz	róbalo	196	2	340
+530	pescado apanado con menestra y arroz	harina de trigo	10	2	28
+530	pescado apanado con menestra y arroz	huevo 	53	2	213
+530	pescado apanado con menestra y arroz	sal	4	2	875
+531	arroz relleno con pescado	arroz	204.3	7	7
+531	arroz relleno con pescado	choclo	312	7	106
+531	arroz relleno con pescado	arveja	290	7	95
+531	arroz relleno con pescado	pimiento rojo	73	7	118
+531	arroz relleno con pescado	pimiento verde	62	7	119
+531	arroz relleno con pescado	cebolla blanca	20	7	91
+531	arroz relleno con pescado	ajo	6	7	80
+531	arroz relleno con pescado	sal	12	7	875
+531	arroz relleno con pescado	achiote	10	7	889
+531	arroz relleno con pescado	picudo	791	7	322
+532	sopa de lenteja	lenteja	192	4	57
+532	sopa de lenteja	agua	2000	4	878
+532	sopa de lenteja	cebolla paiteña	57.5	4	92
+532	sopa de lenteja	tomate riñón	79	4	110
+532	sopa de lenteja	pimiento verde	74.5	4	119
+532	sopa de lenteja	ajo	9	4	80
+532	sopa de lenteja	comino	1.5	4	871
+532	sopa de lenteja	orégano	0.5	4	115
+532	sopa de lenteja	plátano verde	115	4	197
+532	sopa de lenteja	col blanca	60	4	98
+532	sopa de lenteja	sal	6	4	875
+533	tallarín de pollo	fideo tallarín	1141	8	680
+533	tallarín de pollo	aceite	64.5	8	440
+533	tallarín de pollo	mantequilla	15	8	448
+533	tallarín de pollo	cebolla paiteña	42	8	92
+533	tallarín de pollo	tomate riñón	474	8	110
+533	tallarín de pollo	cebolla pblanca	21	8	91
+533	tallarín de pollo	apio	25	8	83
+533	tallarín de pollo	orégano	3	8	115
+533	tallarín de pollo	pimienta	1.5	8	873
+533	tallarín de pollo	comino	1.5	8	871
+533	tallarín de pollo	zanahoria amarilla	62	8	124
+533	tallarín de pollo	salsa de tomate	51	8	746
+533	tallarín de pollo	pollo entero	864	8	327
+534	cebiche de pollo 	pollo	80	1	327
+534	cebiche de pollo 	cebolla paiteña	30	1	92
+534	cebiche de pollo 	tomate riñón	40	1	110
+534	cebiche de pollo 	jugo de limón	10	1	169
+534	cebiche de pollo 	aceite vegetal	10	1	444
+534	cebiche de pollo 	salsa de tomate	17	1	746
+534	cebiche de pollo 	culantro	3	1	97
+534	cebiche de pollo 	mostaza	5	1	741
+534	cebiche de pollo 	jugo de naranja	90	1	181
+534	cebiche de pollo 	sal 	0.5	1	875
+534	cebiche de pollo 	pimienta	0.5	1	873
+534	cebiche de pollo 	canguil	36	1	39
+534	cebiche de pollo 	tostado	20	1	35
+534	cebiche de pollo 	chifles	20	1	836
+535	salchipapas 	papas	800	4	133
+535	salchipapas 	salchicha	192	4	346
+535	salchipapas 	aceite	90	4	440
+535	salchipapas 	salsa de tomate	60	4	746
+535	salchipapas 	mayonesa	55	4	740
+535	salchipapas 	mostaza	20	4	741
+535	salchipapas 	sal	5	4	875
+536	bistec de hígado	hígado	454	4	281
+536	bistec de hígado	jugo de limón	12	4	169
+536	bistec de hígado	cebolla blanca	75	4	91
+536	bistec de hígado	tomate	221	4	110
+536	bistec de hígado	aceite	54.5	4	440
+536	bistec de hígado	sal	4	4	875
+536	bistec de hígado	pimienta	1	4	873
+537	carne apanada o apanado de carne 	carne de res	784	8	241
+537	carne apanada o apanado de carne 	pan molido	100	8	785
+537	carne apanada o apanado de carne 	sal	6	8	875
+537	carne apanada o apanado de carne 	aceite	40	8	440
+537	carne apanada o apanado de carne 	harina de trigo	120	8	28
+537	carne apanada o apanado de carne 	huevo 	106	8	213
+537	carne apanada o apanado de carne 	ajo	6	8	80
+537	carne apanada o apanado de carne 	comino	3	8	871
+537	carne apanada o apanado de carne 	pimienta	2	8	873
+538	churrasco	carne de res	532	4	272
+538	churrasco	huevo	212	4	213
+538	churrasco	aceite	139.4	4	440
+538	churrasco	papa chola	454	4	133
+538	churrasco	arroz	454	4	7
+538	churrasco	cebollla paiteña	67	4	92
+538	churrasco	ajo	6	4	80
+538	churrasco	lechuga	45	4	111
+538	churrasco	tomate	168	4	110
+538	churrasco	sal	5	4	875
+539	arroz con huevo frito	huevo	212	4	213
+539	arroz con huevo frito	aceite	54	4	440
+539	arroz con huevo frito	sal	4	4	875
+539	arroz con huevo frito	tomate riñón	168	4	110
+539	arroz con huevo frito	arroz	454	4	7
+540	pincho	salchicha	22	1	346
+540	pincho	botones de carne de cerdo	25	1	350
+540	pincho	carne de res	60	1	272
+540	pincho	aliño mixto	0.5	1	870
+540	pincho	aceite	3	1	440
+540	pincho	papa chola	38	1	133
+540	pincho	maduro	13	1	193
+540	pincho	pimiento verde	7	1	119
+540	pincho	cebolla paiteña	7	1	92
+540	pincho	sal	0.5	1	875
+540	mote casado	fréjol seco	184	6	49
+540	mote casado	mote	50	6	37
+540	mote casado	agua	1500	6	878
+540	mote casado	sal	4	6	875
+540	mote casado	cebolla blanca	160	6	91
+540	mote casado	ajo	6	6	80
+540	mote casado	comino	1.5	6	871
+540	mote casado	pimienta	1.5	6	873
+540	mote casado	orégano	1	6	115
+540	mote casado	leche entera	240	6	387
+540	mote casado	queso blanco	90	6	412
+540	mote casado	aguacate	102	6	76
+540	mote casado	sal	9	6	8
+542	maduro con queso	queso fresco	90	1	193
+542	maduro con queso	plátano maduro 	163	1	412
+543	sancocho de pescado 	cebolla perla 	67	4	90
+543	sancocho de pescado 	pimiento verde	72	4	119
+543	sancocho de pescado 	dientes de ajo	6	4	80
+543	sancocho de pescado 	plátano verde	280	4	197
+543	sancocho de pescado 	yuca pelada	364	4	135
+543	sancocho de pescado 	pescado dorado	480	4	269
+543	sancocho de pescado 	sal	6	4	875
+543	sancocho de pescado 	agua	2000	4	878
+543	sancocho de pescado 	culantro	26	4	97
+543	sancocho de pescado 	pimienta	0.75	4	873
+543	sancocho de pescado 	choclo amarillo con mazorca	276	4	105
+543	sancocho de pescado 	arveja	36	4	95
+543	sancocho de pescado 	zanahoria	32	4	124
+543	sancocho de pescado 	aceite	15	4	440
+544	encocado de pescado	pescado dorado	800	6	269
+544	encocado de pescado	cebolla paiteña	180	6	92
+544	encocado de pescado	cebolla blanca	21	6	91
+544	encocado de pescado	pimiento verde	72	6	119
+544	encocado de pescado	perejil	10	6	117
+544	encocado de pescado	diente de ajo	3	6	80
+544	encocado de pescado	aceite vegetal	15	6	444
+544	encocado de pescado	achiote	10	6	889
+544	encocado de pescado	tomate riñón	119	6	110
+544	encocado de pescado	leche de coco	240	6	151
+544	encocado de pescado	sal	9	6	875
+544	encocado de pescado	pimienta	1	6	873
+544	encocado de pescado	comino	1.5	6	871
+544	encocado de pescado	arroz	500	6	7
+544	encocado de pescado	plátano verde	510	6	197
+544	encocado de pescado	agua	1500	6	878
+544	encocado de pescado	aceite vegetal	10	6	440
+545	Viche de pescado	pescado albacora	227	8	218
+545	Viche de pescado	mani molido	200	8	69
+545	Viche de pescado	choclo tierno	141	8	106
+545	Viche de pescado	aceite de palma	24	8	440
+545	Viche de pescado	cebolla paiteña	270	8	92
+545	Viche de pescado	ajo	12	8	80
+545	Viche de pescado	pimiento verde	72	8	119
+545	Viche de pescado	plátano verde	231	8	197
+545	Viche de pescado	yuca	611	8	135
+545	Viche de pescado	leche entera	240	8	387
+545	Viche de pescado	agua	2000	8	878
+545	Viche de pescado	aliño	13	8	870
+545	Viche de pescado	comino	4.5	8	871
+545	Viche de pescado	culantro	28	8	97
+545	Viche de pescado	sal	8	8	875
+545	Viche de pescado	pimienta	1.5	8	873
+546	higos con queso	higos	350	12	163
+546	higos con queso	panela molida	908	12	465
+546	higos con queso	agua	480	12	878
+546	higos con queso	queso fresco	360	12	412
+547	ensalada de frutas	plátano de seda	284	8	195
+547	ensalada de frutas	jugo de naranja	344	8	181
+547	ensalada de frutas	manzana	222	8	176
+547	ensalada de frutas	sandía	608	8	199
+547	ensalada de frutas	frutilla	500	8	155
+547	ensalada de frutas	durazno	200	8	154
+548	pastel de chocolate	mantequilla	113.5	6	448
+548	pastel de chocolate	azúcar	150	6	458
+548	pastel de chocolate	harina	102.75	6	28
+548	pastel de chocolate	sal	2	6	875
+548	pastel de chocolate	huevo	106	6	213
+548	pastel de chocolate	chocolate	84	6	695
+549	refresco de avena	agua	2000	8	878
+549	refresco de avena	avena	40	8	10
+549	refresco de avena	azúcar	112	8	458
+549	refresco de avena	naranjilla	150	8	183
+549	refresco de avena	canela	1	8	882
+549	refresco de avena	piña	150	8	191
+550	cafe negro con sandwich de queso	agua	240	1	878
+550	cafe negro con sandwich de queso	café instantáneo	1	1	866
+550	cafe negro con sandwich de queso	azúcar	10	1	458
+550	cafe negro con sandwich de queso	pan	60	1	657
+550	cafe negro con sandwich de queso	queso fresco 	63	1	412
+551	sopa de fideo con papas y queso 	fideo de sopa cortadito	100	6	679
+551	sopa de fideo con papas y queso 	papa blanca	450	6	133
+551	sopa de fideo con papas y queso 	leche 	480	6	387
+551	sopa de fideo con papas y queso 	queso	200	6	412
+551	sopa de fideo con papas y queso 	ajo	3	6	80
+551	sopa de fideo con papas y queso 	cebolla blanca	42	6	91
+551	sopa de fideo con papas y queso 	agua	1000	6	878
+551	sopa de fideo con papas y queso 	aceite	10	6	440
+552	sopa de arroz con queso	sal	3	2	875
+552	sopa de arroz con queso	arroz	113	2	7
+552	sopa de arroz con queso	leche entera	160	2	387
+552	sopa de arroz con queso	queso fresco	60	2	412
+552	sopa de arroz con queso	zanahoria amarilla	40	2	124
+552	sopa de arroz con queso	cebolla blanca	21	2	91
+552	sopa de arroz con queso	culantro 	10	2	97
+552	sopa de arroz con queso	ajo	1.5	2	80
+552	sopa de arroz con queso	aceite	5	2	440
+552	sopa de arroz con queso	agua	240	2	878
+553	sopa de quinoa con hueso de chancho	quinoa	226.6	6	41
+553	sopa de quinoa con hueso de chancho	agua	1500	6	878
+553	sopa de quinoa con hueso de chancho	achiote	10	6	889
+553	sopa de quinoa con hueso de chancho	cebolla blanca	106.6	6	91
+553	sopa de quinoa con hueso de chancho	sal	9	6	875
+553	sopa de quinoa con hueso de chancho	pimienta	1	6	873
+553	sopa de quinoa con hueso de chancho	leche entera	240	6	387
+553	sopa de quinoa con hueso de chancho	costilla de cerdo	450	6	267
+553	sopa de quinoa con hueso de chancho	papa 	300	6	133
+553	sopa de quinoa con hueso de chancho	mani molido	16	6	69
+553	sopa de quinoa con hueso de chancho	aceite	10	6	440
+554	locro de papa	papa chola	908	4	133
+554	locro de papa	cebolla blanca	21	4	91
+554	locro de papa	queso fresco	251.5	4	412
+554	locro de papa	manteca	14.2	4	447
+554	locro de papa	perejil	10	4	117
+554	locro de papa	leche entera	240	4	387
+554	locro de papa	sal	6	4	875
+554	locro de papa	aguacate	136	4	76
+554	locro de papa	agua	1000	4	878
+554	locro de papa	ajo	3	4	80
+554	locro de papa	aceite	10	4	440
+554	locro de papa	achiote	3	4	889
+555	sopa de arroz de cebada	arroz de cebada	300	10	9
+555	sopa de arroz de cebada	hueso de cerdo	800	10	267
+555	sopa de arroz de cebada	cebolla blanca	21	10	91
+555	sopa de arroz de cebada	ajo	6	10	80
+555	sopa de arroz de cebada	papa	700	10	133
+555	sopa de arroz de cebada	leche entera	250	10	387
+555	sopa de arroz de cebada	col blanca	45	10	98
+555	sopa de arroz de cebada	sal	15	10	875
+555	sopa de arroz de cebada	pimienta	2	10	873
+555	sopa de arroz de cebada	aceite	10	10	440
+555	sopa de arroz de cebada	agua	2000	10	878
+556	sopa de morocho	morocho	250	10	36
+556	sopa de morocho	hueso de cerdo	800	10	267
+556	sopa de morocho	cebolla blanca	21	10	91
+556	sopa de morocho	ajo	6	10	80
+556	sopa de morocho	papa	500	10	133
+556	sopa de morocho	leche entera	250	10	387
+556	sopa de morocho	col blanca	45	10	98
+556	sopa de morocho	sal	15	10	875
+556	sopa de morocho	pimienta	2	10	873
+556	sopa de morocho	aceite	10	10	440
+556	sopa de morocho	agua	2000	10	878
+557	sopa timbushca	costilla de res	550	8	239
+557	sopa timbushca	cebolla blanca	48	8	91
+557	sopa timbushca	perejil	10	8	117
+557	sopa timbushca	tomate riñón	119	8	110
+557	sopa timbushca	ajo	3	8	80
+557	sopa timbushca	carne de res	300	8	237
+557	sopa timbushca	papa	908	8	133
+557	sopa timbushca	col blanca	72	8	98
+557	sopa timbushca	cebolla blanca	40	8	91
+557	sopa timbushca	culantro	7.6	8	97
+557	sopa timbushca	mani tostado	56.7	8	67
+557	sopa timbushca	huevo	106	8	213
+557	sopa timbushca	aceite	20	8	440
+557	sopa timbushca	agua	2000	8	878
+557	sopa timbushca	sal	12	8	875
+557	sopa timbushca	comino	4	8	871
+558	caldo de morcilla	tripa (vísceras)	400	10	372
+558	caldo de morcilla	limón sutil	170	10	168
+558	caldo de morcilla	cebolla paiteña	576	10	92
+558	caldo de morcilla	cebolla blanca	63	10	91
+558	caldo de morcilla	pimiento verde	216	10	119
+558	caldo de morcilla	tomate riñón	476	10	110
+558	caldo de morcilla	ajo	18	10	80
+558	caldo de morcilla	culantro	26	10	97
+558	caldo de morcilla	perejil	26	10	117
+558	caldo de morcilla	sangre de cerdo	700	10	361
+558	caldo de morcilla	arroz	454	10	7
+558	caldo de morcilla	col	120	10	98
+558	caldo de morcilla	carne de cerdo	908	10	243
+558	caldo de morcilla	aceite	20	10	440
+558	caldo de morcilla	agua	1500	10	878
+558	caldo de morcilla	maní	100	10	69
+559	caldo de pata	pata de res	908	6	311
+559	caldo de pata	agua	1000	6	878
+559	caldo de pata	cebolla paiteña	176	6	92
+559	caldo de pata	cebolla blanca	101	6	91
+559	caldo de pata	ajo	12	6	80
+559	caldo de pata	comino	1	6	871
+559	caldo de pata	pimienta	0.5	6	873
+559	caldo de pata	maíz	227	6	33
+559	caldo de pata	aceite	10	6	440
+559	caldo de pata	leche entera	310	6	387
+559	caldo de pata	maní tostado	150	6	67
+559	caldo de pata	orégano	1	6	115
+559	caldo de pata	sal	9	6	875
+560	Caldo de bagre	bagre	1000	8	222
+560	Caldo de bagre	mani molido	160	8	69
+560	Caldo de bagre	yuca	300	8	135
+560	Caldo de bagre	plátano verde	300	8	197
+560	Caldo de bagre	ajo	3	8	80
+560	Caldo de bagre	agua	1500	8	878
+560	Caldo de bagre	aceite	12	8	440
+560	Caldo de bagre	achiote	9	8	889
+560	Caldo de bagre	comino	5	8	871
+560	Caldo de bagre	sal	7	8	875
+561	caldo de gallina con papa	gallina	864	8	273
+561	caldo de gallina con papa	zanahoria	64	8	124
+561	caldo de gallina con papa	tomate riñón	153	8	110
+561	caldo de gallina con papa	cebolla blanca	96	8	91
+561	caldo de gallina con papa	ajo	6	8	80
+561	caldo de gallina con papa	apio	4	8	83
+561	caldo de gallina con papa	papa nabo	162	8	103
+561	caldo de gallina con papa	perejil	10	8	117
+561	caldo de gallina con papa	papa 	1024	8	133
+561	caldo de gallina con papa	sal	12	8	875
+561	caldo de gallina con papa	aceite	12	8	440
+561	caldo de gallina con papa	agua	1500	8	878
+562	caldo de gallina con yuca	gallina	864	8	273
+562	caldo de gallina con yuca	zanahoria	64	8	124
+562	caldo de gallina con yuca	tomate riñón	153	8	110
+562	caldo de gallina con yuca	cebolla blanca	96	8	91
+562	caldo de gallina con yuca	ajo	6	8	80
+562	caldo de gallina con yuca	apio	4	8	83
+562	caldo de gallina con yuca	papa nabo	162	8	103
+562	caldo de gallina con yuca	perejil	10	8	117
+562	caldo de gallina con yuca	yuca	728	8	135
+562	caldo de gallina con yuca	sal	12	8	875
+562	caldo de gallina con yuca	aceite	12	8	440
+562	caldo de gallina con yuca	agua	1500	8	878
+563	sopa de bolas de verde rellenas de carne	cebolla blanca	48	6	91
+563	sopa de bolas de verde rellenas de carne	ajo	12	6	80
+563	sopa de bolas de verde rellenas de carne	achiote en pasta	30	6	889
+563	sopa de bolas de verde rellenas de carne	hueso de res	500	6	239
+563	sopa de bolas de verde rellenas de carne	agua	2000	6	878
+563	sopa de bolas de verde rellenas de carne	col blanca	24	6	98
+563	sopa de bolas de verde rellenas de carne	aceite	30	6	440
+563	sopa de bolas de verde rellenas de carne	cebolla paiteña	96	6	92
+563	sopa de bolas de verde rellenas de carne	carne de res	500	6	237
+563	sopa de bolas de verde rellenas de carne	arveja tierna	145	6	95
+563	sopa de bolas de verde rellenas de carne	zanahoria	83	6	124
+563	sopa de bolas de verde rellenas de carne	pasta de maní	16	6	69
+563	sopa de bolas de verde rellenas de carne	sal	9	6	875
+563	sopa de bolas de verde rellenas de carne	comino	2	6	871
+563	sopa de bolas de verde rellenas de carne	pimienta	2	6	873
+563	sopa de bolas de verde rellenas de carne	huevo	106	6	213
+563	sopa de bolas de verde rellenas de carne	plátano verde	632	6	197
+564	sopa de bolas de verde rellenas de queso	cebolla blanca	48	6	91
+564	sopa de bolas de verde rellenas de queso	ajo	12	6	80
+564	sopa de bolas de verde rellenas de queso	achiote en pasta	30	6	889
+564	sopa de bolas de verde rellenas de queso	hueso de res	500	6	239
+564	sopa de bolas de verde rellenas de queso	agua	2000	6	878
+564	sopa de bolas de verde rellenas de queso	col blanca	24	6	98
+564	sopa de bolas de verde rellenas de queso	aceite	20	6	440
+564	sopa de bolas de verde rellenas de queso	cebolla paiteña	96	6	92
+564	sopa de bolas de verde rellenas de queso	queso fresco	360	6	412
+564	sopa de bolas de verde rellenas de queso	arveja tierna	145	6	95
+564	sopa de bolas de verde rellenas de queso	zanahoria	83	6	124
+564	sopa de bolas de verde rellenas de queso	pasta de maní	16	6	69
+564	sopa de bolas de verde rellenas de queso	sal	9	6	875
+564	sopa de bolas de verde rellenas de queso	comino	2	6	871
+564	sopa de bolas de verde rellenas de queso	pimienta	2	6	873
+564	sopa de bolas de verde rellenas de queso	huevo	106	6	213
+564	sopa de bolas de verde rellenas de queso	plátano verde	632	6	197
+565	sancocho de pescado 	cebolla perla 	67	4	90
+565	sancocho de pescado 	pimiento verde	72	4	119
+565	sancocho de pescado 	dientes de ajo	6	4	80
+565	sancocho de pescado 	plátano verde	231	4	197
+565	sancocho de pescado 	yuca pelada	364	4	135
+565	sancocho de pescado 	carne de res	454	4	237
+565	sancocho de pescado 	sal	6	4	875
+565	sancocho de pescado 	agua	2000	4	878
+565	sancocho de pescado 	culantro	26	4	97
+565	sancocho de pescado 	pimienta	0.75	4	873
+565	sancocho de pescado 	choclo amarillo con mazorca	276	4	105
+565	sancocho de pescado 	arveja	36	4	95
+565	sancocho de pescado 	zanahoria	32	4	124
+565	sancocho de pescado 	aceite	5	4	440
+566	colada de arveja	carne de cerdo con hueso	454	4	267
+566	colada de arveja	papa	400	4	133
+566	colada de arveja	cebolla blanca	21	4	91
+566	colada de arveja	achiote	5	4	889
+566	colada de arveja	comino	1.5	4	871
+566	colada de arveja	harina de arveja seca	200	4	21
+566	colada de arveja	col blanca	72	4	98
+566	colada de arveja	perejil	10	4	117
+566	colada de arveja	agua	960	4	878
+566	colada de arveja	aceite	5	4	440
+566	colada de arveja	sal	6	4	875
+567	arroz relleno con pollo	arroz	791	7	7
+567	arroz relleno con pollo	aceite de palma	10	7	440
+567	arroz relleno con pollo	cebolla paiteña	40	7	92
+567	arroz relleno con pollo	pimiento verde	23	7	119
+567	arroz relleno con pollo	pimiento rojo	23	7	118
+567	arroz relleno con pollo	zanahoria	32	7	124
+567	arroz relleno con pollo	arveja tierna	38	7	95
+567	arroz relleno con pollo	salchicha	104	7	346
+567	arroz relleno con pollo	jamón	150	7	285
+567	arroz relleno con pollo	salchicha	10.5	7	346
+567	arroz relleno con pollo	achiote	10	7	889
+567	arroz relleno con pollo	comino	3	7	871
+567	arroz relleno con pollo	pollo	602	7	327
+568	1/4 pollo asado con papas fritas	pollo	216	1	327
+568	1/4 pollo asado con papas fritas	papas	90	1	132
+568	1/4 pollo asado con papas fritas	aceite	10	1	440
+568	1/4 pollo asado con papas fritas	ajo	1.5	1	80
+568	1/4 pollo asado con papas fritas	comino	0.5	1	871
+568	1/4 pollo asado con papas fritas	sal	2	1	875
+568	1/4 pollo asado con papas fritas	arroz	80	1	7
+568	1/4 pollo asado con papas fritas	tomate riñón	20	1	110
+568	1/4 pollo asado con papas fritas	lechuga	17	1	111
+568	1/4 pollo asado con papas fritas	salsa de tomate	10	1	746
+568	1/4 pollo asado con papas fritas	mayonesa	5	1	740
+569	seco de carne	arroz	908	10	7
+569	seco de carne	cebolla paiteña	381	10	92
+569	seco de carne	pimiento rojo	282	10	118
+569	seco de carne	papa	840	10	133
+569	seco de carne	carne de res	1135	10	238
+569	seco de carne	manteca de cerdo	7	10	447
+569	seco de carne	arveja tierna	454	10	95
+569	seco de carne	perejil	50	10	117
+569	seco de carne	ajo	15	10	80
+569	seco de carne	tomate riñón	595	10	110
+570	seco de chivo	chuleta de borrego	1135	6	228
+570	seco de chivo	aceite	20	6	440
+570	seco de chivo	cebolla paiteña	120	6	92
+570	seco de chivo	ajo	9	6	80
+570	seco de chivo	pimiento verde	74.5	6	119
+570	seco de chivo	comino	1.5	6	871
+570	seco de chivo	pimienta	1.5	6	873
+570	seco de chivo	tomate riñón	681	6	110
+570	seco de chivo	orégano	2.7	6	115
+570	seco de chivo	cerveza	500	6	816
+570	seco de chivo	apio	17	6	83
+570	seco de chivo	culantro	20	6	97
+570	seco de chivo	papa 	480	6	133
+570	seco de chivo	arroz	678	6	7
+571	hornado con mote 	papa	1135	10	133
+571	hornado con mote 	achiote	20	10	889
+571	hornado con mote 	queso fresco	373	10	412
+571	hornado con mote 	sal	15	10	875
+571	hornado con mote 	mantequilla	14.2	10	448
+571	hornado con mote 	pierna de cerdo	1135	10	246
+571	hornado con mote 	sal	30	10	875
+571	hornado con mote 	ajo	45	10	80
+571	hornado con mote 	comino	10	10	871
+571	hornado con mote 	lechuga	170	10	111
+571	hornado con mote 	mote	454	10	37
+571	hornado con mote 	aguacate	340	10	76
+571	hornado con mote 	tomate riñón	221	10	110
+571	hornado con mote 	cebolla paiteña	254	10	92
+571	hornado con mote 	culantro	3	10	97
+571	hornado con mote 	jugo de limón	12	10	169
+571	hornado con mote 	sal	15	10	875
+571	hornado con mote 	pimienta	3	10	873
+571	hornado con mote 	cerveza	90	10	816
+572	fritada	aceite	40	6	440
+572	fritada	costilla de cerdo	908	6	246
+572	fritada	agua	120	6	878
+572	fritada	ajo	12	6	80
+572	fritada	cebolla blanca	48	6	91
+572	fritada	maduro	244.5	6	193
+572	fritada	mote	147.8	6	37
+572	fritada	papa	1080	6	133
+572	fritada	tostado	246	6	35
+573	llapingachos con chorizo	papa	1135	10	133
+573	llapingachos con chorizo	achiote	20	10	889
+573	llapingachos con chorizo	queso fresco	373	10	412
+573	llapingachos con chorizo	sal	20	10	875
+573	llapingachos con chorizo	mantequilla	14.2	10	448
+573	llapingachos con chorizo	huevo	530	10	213
+573	llapingachos con chorizo	aceite	130	10	440
+573	llapingachos con chorizo	chorizo	440	10	261
+573	llapingachos con chorizo	aguacate	340	10	76
+573	llapingachos con chorizo	tomate	420	10	110
+573	llapingachos con chorizo	lechuga	170	10	111
+574	arroz con menestra de lenteja y carne frita	lenteja	100	2	57
+574	arroz con menestra de lenteja y carne frita	ajo	12	2	80
+574	arroz con menestra de lenteja y carne frita	cebolla blanca	24	2	91
+574	arroz con menestra de lenteja y carne frita	cebolla paiteña	40	2	92
+574	arroz con menestra de lenteja y carne frita	tomate	119	2	110
+574	arroz con menestra de lenteja y carne frita	aceite	10	2	440
+574	arroz con menestra de lenteja y carne frita	sal	4	2	875
+574	arroz con menestra de lenteja y carne frita	pimienta	0.2	2	873
+574	arroz con menestra de lenteja y carne frita	arroz 	200	2	7
+574	arroz con menestra de lenteja y carne frita	limón 	12	2	168
+574	arroz con menestra de lenteja y carne frita	carne	150	2	241
+575	arroz con menestra de lenteja, carne frita y patacones	lenteja	100	2	57
+575	arroz con menestra de lenteja, carne frita y patacones	ajo	12	2	80
+575	arroz con menestra de lenteja, carne frita y patacones	cebolla blanca	24	2	91
+575	arroz con menestra de lenteja, carne frita y patacones	cebolla paiteña	40	2	92
+575	arroz con menestra de lenteja, carne frita y patacones	plátano verde	346	2	197
+575	arroz con menestra de lenteja, carne frita y patacones	tomate	119	2	110
+575	arroz con menestra de lenteja, carne frita y patacones	aceite	10	2	440
+575	arroz con menestra de lenteja, carne frita y patacones	sal	4	2	875
+575	arroz con menestra de lenteja, carne frita y patacones	pimienta	0.2	2	873
+575	arroz con menestra de lenteja, carne frita y patacones	arroz 	227	2	7
+575	arroz con menestra de lenteja, carne frita y patacones	limón 	12	2	168
+575	arroz con menestra de lenteja, carne frita y patacones	carne	196	2	241
+576	arroz con pescado frito, patacones y encebollado	filete de pescado	90	1	223
+576	arroz con pescado frito, patacones y encebollado	aceite	5	1	440
+576	arroz con pescado frito, patacones y encebollado	ajo	3	1	80
+576	arroz con pescado frito, patacones y encebollado	comino	0.2	1	871
+576	arroz con pescado frito, patacones y encebollado	pimienta	0.2	1	873
+576	arroz con pescado frito, patacones y encebollado	sal	0.2	1	875
+576	arroz con pescado frito, patacones y encebollado	arroz	113	1	7
+576	arroz con pescado frito, patacones y encebollado	tomate riñón	42	1	110
+576	arroz con pescado frito, patacones y encebollado	cebolla paiteña	30	1	92
+576	arroz con pescado frito, patacones y encebollado	limón	3	1	168
+576	arroz con pescado frito, patacones y encebollado	culantro	0.5	1	97
+576	arroz con pescado frito, patacones y encebollado	verde	113	1	197
+576	arroz con pescado frito, patacones y encebollado	aceite	11	1	440
+577	Encebollado de pescado 	pescado albacora	908	10	218
+577	Encebollado de pescado 	yuca	952	10	135
+577	Encebollado de pescado 	tomate riñón	612	10	110
+577	Encebollado de pescado 	pimiento verde	184	10	119
+577	Encebollado de pescado 	cebolla paiteña	540	10	92
+577	Encebollado de pescado 	ajo	12	10	80
+577	Encebollado de pescado 	comino	3	10	871
+577	Encebollado de pescado 	sal	5	10	875
+577	Encebollado de pescado 	cebolla paiteña	50	10	92
+577	Encebollado de pescado 	limón sutil	288	10	168
+577	Encebollado de pescado 	aceite	27	10	440
+577	Encebollado de pescado 	culantro	56	10	97
+577	Encebollado de pescado 	agua	1700	10	878
+578	cebiche de chochos	chochos	70	1	48
+578	cebiche de chochos	cebolla paiteña	30	1	92
+578	cebiche de chochos	tomate riñón	40	1	110
+578	cebiche de chochos	jugo de limón	10	1	169
+578	cebiche de chochos	aceite vegetal	10	1	444
+578	cebiche de chochos	salsa de tomate	17	1	746
+578	cebiche de chochos	culantro	3	1	97
+578	cebiche de chochos	mostaza	5	1	741
+578	cebiche de chochos	jugo de naranja	107.2	1	181
+578	cebiche de chochos	sal 	0.5	1	875
+578	cebiche de chochos	pimienta	0.5	1	873
+578	cebiche de chochos	tostado	20	1	35
+578	cebiche de chochos	chifles	20	1	836
+579	chaulafán	arroz	454	4	7
+579	chaulafán	aceite de palma	10	4	440
+579	chaulafán	cebolla paiteña	30	4	92
+579	chaulafán	zanahoria	40	4	124
+579	chaulafán	camarón	100	4	232
+579	chaulafán	pollo	420	4	327
+579	chaulafán	arveja tierna	36.2	4	95
+579	chaulafán	salsa de soya	54	4	745
+579	chaulafán	sal	4	4	875
+579	chaulafán	huevo	106	4	213
+579	chaulafán	aceite de palma	20	4	440
+579	chaulafán	carne de cerdo	420	4	243
+580	mote pillo	mote	1199	12	37
+580	mote pillo	cebolla blanca	80	12	91
+580	mote pillo	ajo	3	12	80
+580	mote pillo	huevo	318	12	213
+580	mote pillo	culantro	6	12	97
+580	mote pillo	leche entera	120	12	387
+580	mote pillo	sal	18	12	875
+580	mote pillo	pimienta	4	12	873
+580	mote pillo	achiote	10	12	889
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	arroz	113	1	7
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	carne de res	133	1	238
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	aceite	10	1	440
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	papa	227	1	133
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	mantequilla	9	1	448
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	sal	3	1	875
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	leche entera	50	1	387
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	queso fresco	20	1	412
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	cebolla blanca	26	1	91
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	pimienta	1	1	873
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	achiote	2	1	889
+581	ARROZ CON PURÉ (MOLO) Y CARNE FRITA	ajo	3	1	80
+583	papas con cuero	cuero de cerdo	454	12	256
+583	papas con cuero	achiote	20	12	889
+583	papas con cuero	cebolla blanca	48	12	91
+583	papas con cuero	culantro	3	12	97
+583	papas con cuero	papa	1816	12	133
+583	papas con cuero	pasta de mani	64	12	69
+583	papas con cuero	pimienta	0.5	12	873
+583	papas con cuero	sal	11	12	875
+583	papas con cuero	agua	3000	12	878
+583	papas con cuero	aguacate	128.44	12	76
+584	Bolón de chicharrón y queso	aceite de palma	18	1	440
+584	Bolón de chicharrón y queso	chicharrón	30	1	260
+584	Bolón de chicharrón y queso	plátano verde	80	1	197
+584	Bolón de chicharrón y queso	sal	0.2	1	875
+584	Bolón de chicharrón y queso	manteca de cerdo	6	1	447
+584	Bolón de chicharrón y queso	queso fresco	30	1	412
+584	Bolón de chicharrón y queso	comino	0.2	1	871
+585	Morocho con leche de dulce	morocho 	227	10	36
+585	Morocho con leche de dulce	azúcar	454	10	458
+585	Morocho con leche de dulce	canela	0.2	10	882
+585	Morocho con leche de dulce	leche entera	2000	10	387
+586	Morocho con leche sin dulce	morocho 	227	10	36
+586	Morocho con leche sin dulce	leche entera	2000	10	387
+586	Morocho con leche sin dulce	canela	0.2	10	882
+587	empanadas de viento	harina de trigo	227	8	28
+587	empanadas de viento	sal	3	8	875
+587	empanadas de viento	polvo de hornear	3	8	876
+587	empanadas de viento	mantequilla	56	8	448
+587	empanadas de viento	agua	60	8	878
+587	empanadas de viento	aceite de palma	80	8	440
+587	empanadas de viento	queso fresco	168	8	412
+587	empanadas de viento	azúcar	64	8	458
+588	empanadas de verde	plátano verde	1848	18	197
+588	empanadas de verde	manteca de cerdo	60	18	447
+588	empanadas de verde	comino	3	18	871
+588	empanadas de verde	aceite vegetal	80	18	444
+588	empanadas de verde	sal	16	18	875
+588	empanadas de verde	pimienta	4	18	873
+588	empanadas de verde	cebolla blanca	84	18	91
+588	empanadas de verde	queso fresco	250	18	412
+588	empanadas de verde	achiote	10	18	889
+589	empanadas de morocho	carne molida	250	20	235
+589	empanadas de morocho	cebolla perla	100	20	90
+589	empanadas de morocho	zanahoria	300	20	124
+589	empanadas de morocho	arveja	200	20	95
+589	empanadas de morocho	morocho	500	20	36
+589	empanadas de morocho	manteca de cerdo	50	20	447
+589	empanadas de morocho	clara de huevo	62	20	211
+589	empanadas de morocho	sal	8	20	875
+589	empanadas de morocho	pimiento verde	3	20	119
+590	tamal lojano de pollo	maíz amarillo	681	16	33
+590	tamal lojano de pollo	manteca de cerdo	112	16	447
+590	tamal lojano de pollo	mantequilla	140	16	448
+590	tamal lojano de pollo	sal	7	16	875
+590	tamal lojano de pollo	huevo	318	16	213
+590	tamal lojano de pollo	pollo	454	16	327
+590	tamal lojano de pollo	cebolla paiteña	20	16	92
+590	tamal lojano de pollo	pasas	56	16	852
+590	tamal lojano de pollo	mantequilla	28	16	448
+590	tamal lojano de pollo	leche entera	60	16	387
+590	tamal lojano de pollo	sal	24	16	875
+590	tamal lojano de pollo	ajo	12	16	80
+590	tamal lojano de pollo	zanahoria	64	16	124
+590	tamal lojano de pollo	arveja	70	16	95
+590	tamal lojano de pollo	pimienta	3	16	873
+590	tamal lojano de pollo	comino	3	16	871
+591	tamal lojano de cerdo	maíz amarillo	681	16	33
+591	tamal lojano de cerdo	manteca de cerdo	112	16	447
+591	tamal lojano de cerdo	mantequilla	140	16	448
+591	tamal lojano de cerdo	sal	7	16	875
+591	tamal lojano de cerdo	huevo	318	16	213
+591	tamal lojano de cerdo	carne de cerdo	454	16	248
+591	tamal lojano de cerdo	cebolla paiteña	20	16	92
+591	tamal lojano de cerdo	pasas	56	16	852
+591	tamal lojano de cerdo	mantequilla	28	16	448
+591	tamal lojano de cerdo	leche entera	60	16	387
+591	tamal lojano de cerdo	sal	24	16	875
+591	tamal lojano de cerdo	ajo	12	16	80
+591	tamal lojano de cerdo	zanahoria	64	16	124
+591	tamal lojano de cerdo	arveja	70	16	95
+591	tamal lojano de cerdo	pimienta	3	16	873
+591	tamal lojano de cerdo	comino	3	16	871
+592	quimbolito	mantequilla	227	20	448
+592	quimbolito	manteca de cerdo	112	20	447
+592	quimbolito	azúcar	200	20	458
+592	quimbolito	huevo	477	20	213
+592	quimbolito	queso fresco 	340	20	412
+592	quimbolito	harina de maíz blanco	340	20	23
+592	quimbolito	azúcar	66	20	458
+592	quimbolito	pasas	72.5	20	852
+593	humita de sal	choclo desgranado	870	15	106
+593	humita de sal	mantequilla	57	15	448
+593	humita de sal	manteca de cerdo	57	15	447
+593	humita de sal	huevo	212	15	213
+593	humita de sal	queso fresco	224	15	412
+593	humita de sal	sal	15	15	875
+593	humita de sal	leche entera	120	15	387
+594	humita de dulce	choclo desgranado	870	15	106
+594	humita de dulce	mantequilla	57	15	448
+594	humita de dulce	manteca de cerdo	57	15	447
+594	humita de dulce	huevo	212	15	213
+594	humita de dulce	queso fresco	224	15	412
+594	humita de dulce	sal	15	15	875
+594	humita de dulce	leche entera	120	15	387
+594	humita de dulce	azúcar	175	15	458
+596	choclo con queso	choclo amarillo	138	1	105
+596	choclo con queso	queso	68	1	412
+597	tripa mishqui	mote	25	1	37
+597	tripa mishqui	cebolla paiteña	15	1	92
+597	tripa mishqui	tomate riñón	15	1	110
+597	tripa mishqui	comino	1	1	871
+597	tripa mishqui	achiote	3	1	889
+597	tripa mishqui	res tripa	90	1	372
+597	tripa mishqui	sal 	1	1	875
+597	tripa mishqui	ajo	1.5	1	80
+598	sánduche de pernil	pan enrollado	55	1	657
+598	sánduche de pernil	lomo de cerdo	104	1	246
+598	sánduche de pernil	comino	0.2	1	871
+598	sánduche de pernil	sal 	1	1	875
+598	sánduche de pernil	ajo 	1	1	80
+598	sánduche de pernil	tomate riñón	42	1	110
+598	sánduche de pernil	cebolla paiteña	20	1	92
+598	sánduche de pernil	achiote	1	1	889
+599	ensalada de melloco	melloco	136	6	128
+599	ensalada de melloco	tomate riñón	221	6	110
+599	ensalada de melloco	cebolla paiteña	20	6	92
+599	ensalada de melloco	jugo de limón	10	6	169
+599	ensalada de melloco	perejil	3.8	6	117
+599	ensalada de melloco	sal	9	6	875
+599	ensalada de melloco	pimienta	2	6	873
+600	plátano frito con queso	plátano verde	231	2	197
+600	plátano frito con queso	queso fresco	120	2	412
+600	plátano frito con queso	aceite	23	2	440
+601	plátano asado con queso	plátano verde	231	2	197
+601	plátano asado con queso	queso fresco	120	2	412
+602	plátano asado solo	plátano verde	231	1	197
+603	chifles de sal	plátano verde	231	2	197
+603	chifles de sal	aceite	23	2	440
+604	chifles de dulce	plátano maduro	163	2	193
+604	chifles de dulce	aceite	23	2	440
+605	emborrajados	plátano maduro	815	10	193
+605	emborrajados	harina de trigo	200	10	28
+605	emborrajados	huevo	53	10	213
+605	emborrajados	leche entera	120	10	387
+605	emborrajados	aceite	50	10	440
+605	emborrajados	queso fresco	300	10	412
+607	pan de yuca	almidón de yuca	227	12	1
+607	pan de yuca	queso fresco	280	12	412
+607	pan de yuca	huevo	106	12	213
+608	arroz con leche	arroz	146.2	6	7
+608	arroz con leche	leche entera	1000	6	387
+608	arroz con leche	agua	500	6	878
+608	arroz con leche	canela	0.5	6	882
+608	arroz con leche	mantequilla	15	6	448
+608	arroz con leche	azúcar	66.6	6	458
+608	arroz con leche	yema de huevo	16	6	212
+608	arroz con leche	canela en polvo	1.5	6	882
+609	helados de leche	leche entera	750	10	387
+609	helados de leche	huevo	53	10	213
+609	helados de leche	azúcar blanca	100	10	458
+609	helados de leche	canela en rama	0.1	10	882
+610	helados de chocho	crema de leche	220	14	383
+610	helados de chocho	azúcar	200	14	458
+610	helados de chocho	yema de huevo	32	14	212
+610	helados de chocho	chocho	175	14	48
+610	helados de chocho	maicena	20	14	31
+610	helados de chocho	leche entera	720	14	387
+613	pastel de zanahoria	harina de trigo	300	12	28
+613	pastel de zanahoria	zanahoria	220	12	124
+613	pastel de zanahoria	mantequilla	250	12	448
+613	pastel de zanahoria	azúcar morena	200	12	460
+613	pastel de zanahoria	azúcar blanca	200	12	458
+613	pastel de zanahoria	huevo	212	12	213
+613	pastel de zanahoria	canela en polvo	2.6	12	882
+613	pastel de zanahoria	sal	0.2	12	875
+614	pastel de maqueño 	Plátano maqueño	820	10	194
+614	pastel de maqueño 	mantequilla	54	10	448
+614	pastel de maqueño 	queso fresco	112	10	412
+614	pastel de maqueño 	huevo	159	10	213
+614	pastel de maqueño 	panela molida	100	10	465
+614	pastel de maqueño 	canela en polvo	1.5	10	882
+614	pastel de maqueño 	pasas	40	10	852
+616	torta de fruta del pan	fruta de pan molida	660	16	157
+616	torta de fruta del pan	huevo	265	16	213
+616	torta de fruta del pan	queso fresco	210	16	412
+616	torta de fruta del pan	leche entera	240	16	387
+616	torta de fruta del pan	canela en polvo	5.2	16	882
+616	torta de fruta del pan	azúcar	400	16	458
+616	torta de fruta del pan	esencia de vainilla	10	16	881
+617	chucula	leche entera	1000	8	387
+617	chucula	plátano maduro	652	8	193
+617	chucula	azúcar blanca	250	8	458
+617	chucula	queso fresco	120	8	412
+617	chucula	canela	2.6	8	882
+617	chucula	esencia de vainilla	5	8	881
+619	plátano frito 	plátano verde	231	2	197
+619	plátano frito 	aceite	23	2	440
+620	higos con pan	higos	29.16	1	163
+620	higos con pan	panela molida	75.6	1	465
+620	higos con pan	agua	40	1	878
+620	higos con pan	queso fresco	30	1	412
+620	higos con pan	pan manito	66	1	653
+621	maracuyá inti	maracuyá	25	1	956
+621	maracuyá inti	agua	207	1	878
+621	maracuyá inti	panela	8	1	465
+624	tortilla de papa	papa	1135	10	133
+624	tortilla de papa	achiote	20	10	889
+624	tortilla de papa	queso fresco	373	10	412
+624	tortilla de papa	sal	20	10	875
+624	tortilla de papa	mantequilla	14.2	10	448
+626	torta de quinua	harina de trigo	171.25	8	28
+626	torta de quinua	huevo	159	8	213
+626	torta de quinua	aceite	108	8	440
+626	torta de quinua	azúcar	200	8	458
+626	torta de quinua	panela	4.5	8	465
+626	torta de quinua	quinua	255	8	41
+628	chicha de máchica	harina de cebada	1362	66	26
+628	chicha de máchica	panela	257	66	465
+628	chicha de máchica	agua	12000	66	878
+628	chicha de máchica	piña	760	66	191
+628	chicha de máchica	canela	2.5	66	882
+628	chicha de máchica	naranjilla	720	66	183
+628	chicha de máchica	babaco	770	66	138
+630	papas locas	cuero de cerdo	454	12	256
+630	papas locas	achiote	20	12	889
+630	papas locas	cebolla blanca	48	12	91
+630	papas locas	culantro	3	12	97
+630	papas locas	papa	1816	12	133
+630	papas locas	pasta de mani	64	12	69
+630	papas locas	pimienta	0.5	12	873
+630	papas locas	sal	11	12	875
+630	papas locas	agua	3000	12	878
+630	papas locas	aguacate	128.44	12	76
+630	papas locas	huevo 	53	12	213
+631	carnes asadas de San Joaquín	carne de cerdo	113	1	243
+631	carnes asadas de San Joaquín	ajo	1.5	1	80
+631	carnes asadas de San Joaquín	sal	2	1	875
+631	carnes asadas de San Joaquín	mote	99.9	1	37
+631	carnes asadas de San Joaquín	cebolla blanca	6.7	1	91
+631	carnes asadas de San Joaquín	ajo	0.3	1	80
+631	carnes asadas de San Joaquín	huevo	26.5	1	213
+631	carnes asadas de San Joaquín	culantro	0.5	1	97
+631	carnes asadas de San Joaquín	leche entera	10.0	1	387
+631	carnes asadas de San Joaquín	sal	1.5	1	875
+631	carnes asadas de San Joaquín	pimienta	0.3	1	873
+631	carnes asadas de San Joaquín	achiote	0.8	1	889
+631	carnes asadas de San Joaquín	papa	227	1	133
+631	carnes asadas de San Joaquín	achiote	4	1	889
+631	carnes asadas de San Joaquín	queso fresco	74.6	1	412
+631	carnes asadas de San Joaquín	sal	3	1	875
+631	carnes asadas de San Joaquín	mantequilla	2.84	1	448
+631	carnes asadas de San Joaquín	aceite	5	1	440
+632	colada de yaguana	naranja	196	10	182
+632	colada de yaguana	naranjilla	112	10	183
+632	colada de yaguana	piña	280	10	191
+632	colada de yaguana	babaco	280	10	138
+632	colada de yaguana	almidón de achira	84	10	134
+632	colada de yaguana	agua	1500	10	878
+632	colada de yaguana	azúcar	140	10	458
+632	colada de yaguana	canela	0.2	10	882
+632	colada de yaguana	jugo de limón	14	10	169
+634	cuchichaqui	harina de maíz	300	8	23
+634	cuchichaqui	manteca de cerdo	120	8	447
+634	cuchichaqui	queso fresco	150	8	412
+634	cuchichaqui	yema de huevo	93	8	212
+634	cuchichaqui	sal	50	8	875
+634	cuchichaqui	agua	400	8	878
+634	cuchichaqui	cebolla blanca	20	8	91
+635	colada de sambo	sambo	2136	20	96
+635	colada de sambo	leche entera	720	20	387
+635	colada de sambo	agua	240	20	878
+635	colada de sambo	panela	1356	20	464
+635	colada de sambo	canela	0.4	20	882
+637	mote sucio	mote	908	6	37
+637	mote sucio	chicharrón de cerdo	120	6	260
+637	mote sucio	cebolla blanca	40	6	91
+637	mote sucio	culantro	3.8	6	97
+637	mote sucio	sal	5	6	875
+637	mote sucio	pimienta	2	6	871
+637	mote sucio	manteca	7	6	447
+638	puchero	costilla de cerdo	908	8	246
+638	puchero	papa	908	8	133
+638	puchero	col blanca	92	8	98
+638	puchero	ajo	9	8	80
+638	puchero	cebolla blanca	48	8	91
+638	puchero	comino	2	8	871
+638	puchero	leche entera	240	8	387
+638	puchero	arroz	40	8	7
+638	puchero	orégano	1	8	115
+638	puchero	agua	1500	8	878
+640	menudo de cerdo	cebolla perla	100	10	90
+640	menudo de cerdo	cebolla blanca	100	10	91
+640	menudo de cerdo	hígado de cerdo	300	10	279
+640	menudo de cerdo	pulmón de cerdo	300	10	332
+640	menudo de cerdo	corazón de cerdo	300	10	266
+640	menudo de cerdo	riñón de cerdo	300	10	337
+640	menudo de cerdo	papa chola	1000	10	133
+640	menudo de cerdo	pasta de maní	50	10	69
+640	menudo de cerdo	leche	50	10	387
+640	menudo de cerdo	mantequilla	50	10	448
+640	menudo de cerdo	aceite de palma	50	10	440
+640	menudo de cerdo	achiote	20	10	889
+640	menudo de cerdo	culantro	50	10	97
+640	menudo de cerdo	comino	10	10	871
+640	menudo de cerdo	sal	15	10	875
+640	menudo de cerdo	aliño	60	10	870
+642	carnes coloradas	manteca de cerdo	60	4	447
+642	carnes coloradas	plátano maqueño	232	4	194
+642	carnes coloradas	aguacate	176	4	76
+642	carnes coloradas	ajo	6	4	80
+642	carnes coloradas	carne de res	454	4	238
+642	carnes coloradas	cebolla paiteña	62	4	92
+642	carnes coloradas	achiote	10	4	889
+642	carnes coloradas	orégano	1	4	115
+642	carnes coloradas	jugo de limón	12	4	169
+642	carnes coloradas	papa	454	4	133
+642	carnes coloradas	comino	1.5	4	871
+642	carnes coloradas	sal 	8	4	875
+642	carnes coloradas	mote	150	4	37
+642	carnes coloradas	harina de trigo	56	4	28
+642	carnes coloradas	sal 	0.6	4	875
+642	carnes coloradas	aceite de palma	20	4	440
+642	carnes coloradas	mantequilla	14	4	448
+642	carnes coloradas	jugo de limón	2	4	169
+642	carnes coloradas	agua	15	4	878
+642	carnes coloradas	queso fresco	55	4	412
+642	carnes coloradas	azúcar	16	4	458
+642	carnes coloradas	huevo	26.5	4	213
+642	carnes coloradas	queso fresco	151.33	4	412
+642	carnes coloradas	leche	20	4	387
+642	carnes coloradas	cebolla paiteña	26.6	4	92
+642	carnes coloradas	tomate riñón	51	4	110
+642	carnes coloradas	huevo	35.3	4	213
+643	colada de uvilla	agua	1000	6	878
+643	colada de uvilla	uvilla	454	6	208
+643	colada de uvilla	azúcar	100	6	458
+643	colada de uvilla	harina	68.5	6	28
+643	colada de uvilla	canela	0.1	6	882
+644	caldo de 31	tripas de res	454	6	372
+644	caldo de 31	panza de res	908	6	298
+644	caldo de 31	cebolla blanca	42	6	91
+644	caldo de 31	cebolla paiteña	96	6	92
+644	caldo de 31	ajo	12	6	80
+644	caldo de 31	aceite	10	6	440
+644	caldo de 31	culantro	3.8	6	97
+644	caldo de 31	sal	9	6	875
+644	caldo de 31	agua	1500	6	878
+645	hornado con mote 	papa	1135	10	133
+645	hornado con mote 	achiote	20	10	889
+645	hornado con mote 	queso fresco	373	10	412
+645	hornado con mote 	sal	15	10	875
+645	hornado con mote 	mantequilla	14.2	10	448
+645	hornado con mote 	pierna de cerdo	1135	10	246
+645	hornado con mote 	sal	30	10	875
+645	hornado con mote 	ajo	45	10	80
+645	hornado con mote 	comino	10	10	871
+645	hornado con mote 	lechuga	170	10	111
+645	hornado con mote 	mote	454	10	37
+645	hornado con mote 	aguacate	340	10	76
+645	hornado con mote 	tomate riñón	221	10	110
+645	hornado con mote 	cebolla paiteña	254	10	92
+645	hornado con mote 	culantro	3	10	97
+645	hornado con mote 	jugo de limón	12	10	169
+645	hornado con mote 	sal	15	10	875
+645	hornado con mote 	pimienta	3	10	873
+645	hornado con mote 	cerveza	90	10	816
+646	helado de paila de mora	pulpa de mora	1000	20	209
+646	helado de paila de mora	azúcar	250	20	458
+646	helado de paila de mora	clara de huevo	62	20	211
+646	arrope de mora	azúcar	500	57	458
+646	arrope de mora	agua	500	57	878
+646	arrope de mora	mora	1500	57	209
+648	tostado y habas calpu	habas	145	6	56
+648	tostado y habas calpu	maíz amarillo	246	6	33
+648	tostado y habas calpu	papa	480	6	133
+648	tostado y habas calpu	sal	6	6	875
+649	papas con nabo y ensalada de pepas de sambo	nabo 	240	8	113
+649	papas con nabo y ensalada de pepas de sambo	papa	908	8	133
+649	papas con nabo y ensalada de pepas de sambo	cebolla perla	67	8	90
+649	papas con nabo y ensalada de pepas de sambo	cebolla blanca	48	8	91
+649	papas con nabo y ensalada de pepas de sambo	manteca	30	8	447
+649	papas con nabo y ensalada de pepas de sambo	culantro 	3.8	8	97
+649	papas con nabo y ensalada de pepas de sambo	sal	12	8	875
+870	aliño	ajo	800	4	80
+870	aliño	pimiento verde	100	4	119
+870	aliño	zanahoria amarilla	50	4	124
+870	aliño	cebolla paiteña	50	4	92
+870	aliño	cebolla perla	50	4	90
+870	aliño	apio 	60	4	83
+870	aliño	perejil	50	4	117
+870	aliño	culantro	50	4	97
+870	aliño	sal	20	4	875
