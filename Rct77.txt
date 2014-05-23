@@ -1,0 +1,1406 @@
+nprep	nom_prep	prct	cantidad	cod_ec
+1/4 pollo asado con papas fritas	pollo	0.477876106	216	327
+1/4 pollo asado con papas fritas	papas	0.199115044	90	132
+1/4 pollo asado con papas fritas	arroz	0.17699115	80	7
+1/4 pollo asado con papas fritas	tomate riñón	0.044247788	20	110
+1/4 pollo asado con papas fritas	lechuga	0.037610619	17	111
+1/4 pollo asado con papas fritas	aceite	0.022123894	10	440
+1/4 pollo asado con papas fritas	salsa de tomate	0.022123894	10	746
+1/4 pollo asado con papas fritas	mayonesa	0.011061947	5	740
+1/4 pollo asado con papas fritas	sal	0.004424779	2	875
+1/4 pollo asado con papas fritas	ajo	0.003318584	1.5	80
+1/4 pollo asado con papas fritas	comino	0.001106195	0.5	871
+aliño	ajo	0.650406504	800	80
+aliño	pimiento verde	0.081300813	100	119
+aliño	apio 	0.048780488	60	83
+aliño	cebolla paiteña	0.040650407	50	92
+aliño	cebolla perla	0.040650407	50	90
+aliño	culantro	0.040650407	50	97
+aliño	perejil	0.040650407	50	117
+aliño	zanahoria amarilla	0.040650407	50	124
+aliño	sal	0.016260163	20	875
+arepas de zapallo	zapallo	0.602264515	500	89
+arepas de zapallo	harina de maíz	0.120452903	100	23
+arepas de zapallo	manteca de cerdo	0.083112503	69	447
+arepas de zapallo	huevo	0.063840039	53	213
+arepas de zapallo	queso fresco	0.054203806	45	412
+arepas de zapallo	azúcar	0.036135871	30	458
+arepas de zapallo	panela	0.032522284	27	465
+arepas de zapallo	pasas	0.00746808	6.2	852
+arrope de mora	mora	0.6	1500	209
+arrope de mora	agua	0.2	500	878
+arrope de mora	azúcar	0.2	500	458
+arroz con huevo frito	arroz	0.50896861	454	7
+arroz con huevo frito	huevo	0.237668161	212	213
+arroz con huevo frito	tomate riñón	0.188340807	168	110
+arroz con huevo frito	aceite	0.060538117	54	440
+arroz con huevo frito	sal	0.004484305	4	875
+arroz con leche	leche entera	0.572803299	1000	387
+arroz con leche	agua	0.28640165	500	878
+arroz con leche	arroz	0.083743842	146.2	7
+arroz con leche	azúcar	0.0381487	66.6	458
+arroz con leche	yema de huevo	0.009164853	16	212
+arroz con leche	mantequilla	0.008592049	15	448
+arroz con leche	canela en polvo	0.000859205	1.5	882
+arroz con leche	canela	0.000286402	0.5	882
+arroz con menestra de lenteja y carne frita	arroz 	0.297973778	200	7
+arroz con menestra de lenteja y carne frita	carne	0.223480334	150	241
+arroz con menestra de lenteja y carne frita	tomate	0.177294398	119	110
+arroz con menestra de lenteja y carne frita	lenteja	0.148986889	100	57
+arroz con menestra de lenteja y carne frita	cebolla paiteña	0.059594756	40	92
+arroz con menestra de lenteja y carne frita	cebolla blanca	0.035756853	24	91
+arroz con menestra de lenteja y carne frita	ajo	0.017878427	12	80
+arroz con menestra de lenteja y carne frita	limón 	0.017878427	12	168
+arroz con menestra de lenteja y carne frita	aceite	0.014898689	10	440
+arroz con menestra de lenteja y carne frita	sal	0.005959476	4	875
+arroz con menestra de lenteja y carne frita	pimienta	0.000297974	0.2	873
+arroz con menestra de lenteja, carne frita y patacones	plátano verde	0.317372959	346	197
+arroz con menestra de lenteja, carne frita y patacones	arroz 	0.208218675	227	7
+arroz con menestra de lenteja, carne frita y patacones	carne	0.179783526	196	241
+arroz con menestra de lenteja, carne frita y patacones	tomate	0.109154284	119	110
+arroz con menestra de lenteja, carne frita y patacones	lenteja	0.091726289	100	57
+arroz con menestra de lenteja, carne frita y patacones	cebolla paiteña	0.036690516	40	92
+arroz con menestra de lenteja, carne frita y patacones	cebolla blanca	0.022014309	24	91
+arroz con menestra de lenteja, carne frita y patacones	ajo	0.011007155	12	80
+arroz con menestra de lenteja, carne frita y patacones	limón 	0.011007155	12	168
+arroz con menestra de lenteja, carne frita y patacones	aceite	0.009172629	10	440
+arroz con menestra de lenteja, carne frita y patacones	sal	0.003669052	4	875
+arroz con menestra de lenteja, carne frita y patacones	pimienta	0.000183453	0.2	873
+arroz con pescado frito, patacones y encebollado	arroz	0.274872294	113	7
+arroz con pescado frito, patacones y encebollado	verde	0.274872294	113	197
+arroz con pescado frito, patacones y encebollado	filete de pescado	0.218924836	90	223
+arroz con pescado frito, patacones y encebollado	tomate riñón	0.102164923	42	110
+arroz con pescado frito, patacones y encebollado	cebolla paiteña	0.072974945	30	92
+arroz con pescado frito, patacones y encebollado	aceite	0.038919971	8	440
+arroz con pescado frito, patacones y encebollado	ajo	0.007297495	3	80
+arroz con pescado frito, patacones y encebollado	limón	0.007297495	3	168
+arroz con pescado frito, patacones y encebollado	culantro	0.001216249	0.5	97
+arroz con pescado frito, patacones y encebollado	comino	0.0004865	0.2	871
+arroz con pescado frito, patacones y encebollado	pimienta	0.0004865	0.2	873
+arroz con pescado frito, patacones y encebollado	sal	0.0004865	0.2	875
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	papa	0.380234506	227	133
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	carne de res	0.22278057	133	238
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	arroz	0.189279732	113	7
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	leche entera	0.083752094	50	387
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	cebolla blanca	0.043551089	26	91
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	queso fresco	0.033500838	20	412
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	aceite	0.016750419	10	440
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	mantequilla	0.015075377	9	448
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	ajo	0.005025126	3	80
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	sal	0.005025126	3	875
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	achiote	0.003350084	2	889
+ARROZ CON PURÉ (MOLO) Y CARNE FRITA	pimienta	0.001675042	1	873
+arroz relleno con pescado	picudo	0.444307139	791	322
+arroz relleno con pescado	choclo	0.175251362	312	106
+arroz relleno con pescado	arveja	0.162893894	290	95
+arroz relleno con pescado	arroz	0.11475594	204.3	7
+arroz relleno con pescado	pimiento rojo	0.041004325	73	118
+arroz relleno con pescado	pimiento verde	0.034825591	62	119
+arroz relleno con pescado	cebolla blanca	0.011234062	20	91
+arroz relleno con pescado	sal	0.006740437	12	875
+arroz relleno con pescado	achiote	0.005617031	10	889
+arroz relleno con pescado	ajo	0.003370219	6	80
+arroz relleno con pollo	arroz	0.429891304	791	7
+arroz relleno con pollo	pollo	0.327173913	602	327
+arroz relleno con pollo	jamón	0.081521739	150	285
+arroz relleno con pollo	salchicha	0.062228261	57.25	346
+arroz relleno con pollo	cebolla paiteña	0.02173913	40	92
+arroz relleno con pollo	arveja tierna	0.020652174	38	95
+arroz relleno con pollo	zanahoria	0.017391304	32	124
+arroz relleno con pollo	pimiento rojo	0.0125	23	118
+arroz relleno con pollo	pimiento verde	0.0125	23	119
+arroz relleno con pollo	aceite de palma	0.005434783	10	440
+arroz relleno con pollo	achiote	0.005434783	10	889
+arroz relleno con pollo	sal	0.001902174	3.5	875
+arroz relleno con pollo	comino	0.001630435	3	871
+bala	plátano verde	0.766283525	80	197
+bala	aceite de palma	0.172413793	18	440
+bala	manteca de cerdo	0.057471264	6	447
+bala	comino	0.001915709	0.2	871
+bala	sal	0.001915709	0.2	875
+bistec de hígado	hígado	0.552647596	454	281
+bistec de hígado	tomate	0.269020085	221	110
+bistec de hígado	cebolla blanca	0.091296409	75	91
+bistec de hígado	aceite	0.066342057	54.5	440
+bistec de hígado	jugo de limón	0.014607425	12	169
+bistec de hígado	sal	0.004869142	4	875
+bistec de hígado	pimienta	0.001217285	1	873
+bola de verde	plátano verde	0.667148014	924	197
+bola de verde	carne de cerdo	0.327797834	454	248
+bola de verde	sal 	0.003610108	5	875
+bola de verde	comino	0.000722022	1	871
+bola de verde	orégano	0.000722022	1	115
+Bollo de carne	plátano verde	0.338833883	924	197
+Bollo de carne	agua	0.264026403	720	878
+Bollo de carne	maní	0.110011001	300	69
+Bollo de carne	cebolla paiteña	0.093142648	254	92
+Bollo de carne	carne	0.083241657	227	238
+Bollo de carne	tomate riñón	0.056105611	153	110
+Bollo de carne	pimiento verde	0.02640264	72	119
+Bollo de carne	achiote	0.020535387	56	889
+Bollo de carne	ajo	0.00220022	6	80
+Bollo de carne	aliño	0.001833517	5	870
+Bollo de carne	comino	0.001833517	5	871
+Bollo de carne	sal	0.001833517	5	875
+Bollo de cuero de cerdo	plátano verde	0.338833883	924	197
+Bollo de cuero de cerdo	agua	0.264026403	720	878
+Bollo de cuero de cerdo	maní	0.110011001	300	69
+Bollo de cuero de cerdo	cebolla paiteña	0.093142648	254	92
+Bollo de cuero de cerdo	cuero de cerdo	0.083241657	227	256
+Bollo de cuero de cerdo	tomate riñón	0.056105611	153	110
+Bollo de cuero de cerdo	pimiento verde	0.02640264	72	119
+Bollo de cuero de cerdo	achiote	0.020535387	56	889
+Bollo de cuero de cerdo	ajo	0.00220022	6	80
+Bollo de cuero de cerdo	aliño	0.001833517	5	870
+Bollo de cuero de cerdo	comino	0.001833517	5	871
+Bollo de cuero de cerdo	sal	0.001833517	5	875
+Bollo de maní	plátano verde	0.3696	924	197
+Bollo de maní	agua	0.288	720	878
+Bollo de maní	maní	0.12	300	69
+Bollo de maní	cebolla paiteña	0.1016	254	92
+Bollo de maní	tomate riñón	0.0612	153	110
+Bollo de maní	pimiento verde	0.0288	72	119
+Bollo de maní	achiote	0.0224	56	889
+Bollo de maní	ajo	0.0024	6	80
+Bollo de maní	aliño	0.002	5	870
+Bollo de maní	comino	0.002	5	871
+Bollo de maní	sal	0.002	5	875
+Bollo de pescado	plátano verde	0.338833883	924	197
+Bollo de pescado	agua	0.264026403	720	878
+Bollo de pescado	maní	0.110011001	300	69
+Bollo de pescado	cebolla paiteña	0.093142648	254	92
+Bollo de pescado	pescado dorado	0.083241657	227	269
+Bollo de pescado	tomate riñón	0.056105611	153	110
+Bollo de pescado	pimiento verde	0.02640264	72	119
+Bollo de pescado	achiote	0.020535387	56	889
+Bollo de pescado	ajo	0.00220022	6	80
+Bollo de pescado	aliño	0.001833517	5	870
+Bollo de pescado	comino	0.001833517	5	871
+Bollo de pescado	sal	0.001833517	5	875
+Bolón de chicharrón y queso	plátano verde	0.496740143	80	197
+Bolón de chicharrón y queso	chicharrón	0.186277554	30	260
+Bolón de chicharrón y queso	queso fresco	0.186277554	30	412
+Bolón de chicharrón y queso	aceite de palma	0.086929525	14	440
+Bolón de chicharrón y queso	manteca de cerdo	0.037255511	6	447
+Bolón de chicharrón y queso	sal	0.005277864	0.85	875
+Bolón de chicharrón y queso	comino	0.00124185	0.2	871
+cafe negro con sandwich de queso	agua	0.64171123	240	878
+cafe negro con sandwich de queso	queso fresco 	0.168449198	63	412
+cafe negro con sandwich de queso	pan	0.160427807	60	657
+cafe negro con sandwich de queso	azúcar	0.026737968	10	458
+cafe negro con sandwich de queso	café instantáneo	0.002673797	1	866
+caldo de 31	agua	0.494266509	1500	878
+caldo de 31	panza de res	0.299195993	908	298
+caldo de 31	tripas de res	0.149597997	454	372
+caldo de 31	cebolla paiteña	0.031633057	96	92
+caldo de 31	cebolla blanca	0.013839462	42	91
+caldo de 31	ajo	0.003954132	12	80
+caldo de 31	aceite	0.00329511	10	440
+caldo de 31	sal	0.002965599	9	875
+caldo de 31	culantro	0.001252142	3.8	97
+Caldo de bagre	agua	0.569022419	2500	878
+Caldo de bagre	bagre	0.227608968	1000	222
+Caldo de bagre	plátano verde	0.079663139	350	197
+Caldo de bagre	yuca	0.073972915	325	135
+Caldo de bagre	mani molido	0.040969614	180	69
+Caldo de bagre	aceite	0.002731308	12	440
+Caldo de bagre	sal	0.002162285	9.5	875
+Caldo de bagre	achiote	0.002048481	9	889
+Caldo de bagre	comino	0.001138045	5	871
+Caldo de bagre	ajo	0.000682827	3	80
+caldo de gallina con papa	agua	0.383926286	1500	878
+caldo de gallina con papa	papa 	0.262093678	1024	133
+caldo de gallina con papa	gallina	0.221141541	864	273
+caldo de gallina con papa	papa nabo	0.041464039	162	103
+caldo de gallina con papa	tomate riñón	0.039160481	153	110
+caldo de gallina con papa	cebolla blanca	0.024571282	96	91
+caldo de gallina con papa	zanahoria	0.016380855	64	124
+caldo de gallina con papa	aceite	0.00307141	12	440
+caldo de gallina con papa	sal	0.00307141	12	875
+caldo de gallina con papa	perejil	0.002559509	10	117
+caldo de gallina con papa	ajo	0.001535705	6	80
+caldo de gallina con papa	apio	0.001023803	4	83
+caldo de gallina con yuca	agua	0.415397397	1500	878
+caldo de gallina con yuca	gallina	0.239268901	864	273
+caldo de gallina con yuca	yuca	0.201606203	728	135
+caldo de gallina con yuca	papa nabo	0.044862919	162	103
+caldo de gallina con yuca	tomate riñón	0.042370534	153	110
+caldo de gallina con yuca	cebolla blanca	0.026585433	96	91
+caldo de gallina con yuca	zanahoria	0.017723622	64	124
+caldo de gallina con yuca	aceite	0.003323179	12	440
+caldo de gallina con yuca	sal	0.003323179	12	875
+caldo de gallina con yuca	perejil	0.002769316	10	117
+caldo de gallina con yuca	ajo	0.00166159	6	80
+caldo de gallina con yuca	apio	0.001107726	4	83
+Caldo de Habas verdes con chancho	agua	0.55187638	2000	878
+Caldo de Habas verdes con chancho	habas tiernas 	0.27593819	1000	55
+Caldo de Habas verdes con chancho	pierna de cerdo	0.137969095	500	246
+Caldo de Habas verdes con chancho	cebolla paiteña	0.024834437	90	92
+Caldo de Habas verdes con chancho	aceite de palma	0.004966887	18	440
+Caldo de Habas verdes con chancho	sal	0.003311258	12	875
+Caldo de Habas verdes con chancho	ajo	0.000827815	3	80
+Caldo de Habas verdes con chancho	perejil	0.000275938	1	117
+Caldo de Manguera	plátano verde	0.251360174	1386	197
+Caldo de Manguera	carne de cerdo	0.164671745	908	243
+Caldo de Manguera	sangre de cerdo	0.108813928	600	361
+Caldo de Manguera	cebolla paiteña	0.104461371	576	92
+Caldo de Manguera	tomate riñón	0.086325716	476	110
+Caldo de Manguera	arroz	0.082335872	454	7
+Caldo de Manguera	tripa (vísceras)	0.072542619	400	372
+Caldo de Manguera	pimiento verde	0.039173014	216	119
+Caldo de Manguera	limón sutil	0.030830613	170	168
+Caldo de Manguera	col	0.021762786	120	98
+Caldo de Manguera	maní	0.013601741	75	69
+Caldo de Manguera	cebolla blanca	0.011425462	63	91
+Caldo de Manguera	culantro	0.00471527	26	96
+Caldo de Manguera	perejil	0.00471527	26	117
+Caldo de Manguera	ajo	0.003264418	18	80
+caldo de morcilla	agua	0.259830244	1500	878
+caldo de morcilla	carne de cerdo	0.157283908	908	243
+caldo de morcilla	sangre de cerdo	0.121254114	700	361
+caldo de morcilla	cebolla paiteña	0.099774814	576	92
+caldo de morcilla	tomate riñón	0.082452798	476	110
+caldo de morcilla	arroz	0.078641954	454	7
+caldo de morcilla	tripa (vísceras)	0.069288065	400	372
+caldo de morcilla	pimiento verde	0.037415555	216	119
+caldo de morcilla	limón sutil	0.029447428	170	168
+caldo de morcilla	col	0.02078642	120	98
+caldo de morcilla	maní	0.017322016	100	69
+caldo de morcilla	cebolla blanca	0.01091287	63	91
+caldo de morcilla	culantro	0.004503724	26	97
+caldo de morcilla	perejil	0.004503724	26	117
+caldo de morcilla	aceite	0.003464403	20	440
+caldo de morcilla	ajo	0.003117963	18	80
+caldo de pata	agua	0.344174841	1000	878
+caldo de pata	pata de res	0.312510755	908	311
+caldo de pata	leche entera	0.106694201	310	387
+caldo de pata	maíz	0.078127689	227	33
+caldo de pata	cebolla paiteña	0.060574772	176	92
+caldo de pata	maní tostado	0.051626226	150	67
+caldo de pata	cebolla blanca	0.034761659	101	91
+caldo de pata	ajo	0.004130098	12	80
+caldo de pata	aceite	0.003441748	10	440
+caldo de pata	sal	0.003097574	9	875
+caldo de pata	comino	0.000344175	1	871
+caldo de pata	orégano	0.000344175	1	115
+caldo de pata	pimienta	0.000172087	0.5	873
+carne apanada o apanado de carne 	carne de res	0.671808055	784	241
+carne apanada o apanado de carne 	harina de trigo	0.102827763	120	28
+carne apanada o apanado de carne 	huevo 	0.090831191	106	213
+carne apanada o apanado de carne 	pan molido	0.085689803	100	785
+carne apanada o apanado de carne 	aceite	0.034275921	40	440
+carne apanada o apanado de carne 	ajo	0.005141388	6	80
+carne apanada o apanado de carne 	sal	0.005141388	6	875
+carne apanada o apanado de carne 	comino	0.002570694	3	871
+carne apanada o apanado de carne 	pimienta	0.001713796	2	873
+carne con menestra de frejol y arroz	plátano verde	0.317372959	346	197
+carne con menestra de frejol y arroz	arroz 	0.208218675	227	7
+carne con menestra de frejol y arroz	carne	0.179783526	196	241
+carne con menestra de frejol y arroz	tomate	0.109154284	119	110
+carne con menestra de frejol y arroz	frejol	0.091726289	100	960
+carne con menestra de frejol y arroz	cebolla paiteña	0.036690516	40	92
+carne con menestra de frejol y arroz	cebolla blanca	0.022014309	24	91
+carne con menestra de frejol y arroz	ajo	0.011007155	12	80
+carne con menestra de frejol y arroz	limón 	0.011007155	12	168
+carne con menestra de frejol y arroz	aceite	0.009172629	10	440
+carne con menestra de frejol y arroz	sal	0.003669052	4	875
+carne con menestra de frejol y arroz	pimienta	0.000183453	0.2	873
+carnes asadas de San Joaquín	papa	0.391757559	227	133
+carnes asadas de San Joaquín	carne de cerdo	0.195015877	113	243
+carnes asadas de San Joaquín	mote	0.172436605	99.91666667	37
+carnes asadas de San Joaquín	queso fresco	0.128744995	74.6	412
+carnes asadas de San Joaquín	huevo	0.045733812	26.5	213
+carnes asadas de San Joaquín	leche entera	0.017258042	10	387
+carnes asadas de San Joaquín	cebolla blanca	0.011505361	6.666666667	91
+carnes asadas de San Joaquín	sal	0.011217727	2.166666667	875
+carnes asadas de San Joaquín	aceite	0.008629021	5	440
+carnes asadas de San Joaquín	achiote	0.008341387	2.416666667	889
+carnes asadas de San Joaquín	mantequilla	0.004901284	2.84	448
+carnes asadas de San Joaquín	ajo	0.003020157	0.875	80
+carnes asadas de San Joaquín	culantro	0.000862902	0.5	97
+carnes asadas de San Joaquín	pimienta	0.000575268	0.333333333	873
+carnes coloradas	carne de res	0.214573004	454	238
+carnes coloradas	papa	0.214573004	454	133
+carnes coloradas	plátano maqueño	0.109649641	232	194
+carnes coloradas	queso fresco	0.097517286	103.165	412
+carnes coloradas	aguacate	0.083182486	176	76
+carnes coloradas	mote	0.070894164	150	37
+carnes coloradas	cebolla paiteña	0.04187482	44.3	92
+carnes coloradas	huevo	0.029208396	30.9	213
+carnes coloradas	manteca de cerdo	0.028357666	60	447
+carnes coloradas	harina de trigo	0.026467155	56	28
+carnes coloradas	tomate riñón	0.024104016	51	110
+carnes coloradas	aceite de palma	0.009452555	20	440
+carnes coloradas	leche	0.009452555	20	387
+carnes coloradas	azúcar	0.007562044	16	458
+carnes coloradas	agua	0.007089416	15	878
+carnes coloradas	mantequilla	0.006616789	14	448
+carnes coloradas	jugo de limón	0.006616789	7	169
+carnes coloradas	achiote	0.004726278	10	889
+carnes coloradas	sal 	0.004064599	4.3	875
+carnes coloradas	ajo	0.002835767	6	80
+carnes coloradas	comino	0.000708942	1.5	871
+carnes coloradas	orégano	0.000472628	1	115
+Cazuela de Pescado	agua 	0.562429696	2000	878
+Cazuela de Pescado	pescado dorado	0.168728909	600	269
+Cazuela de Pescado	plátano verde	0.101237345	360	197
+Cazuela de Pescado	maní	0.070303712	250	69
+Cazuela de Pescado	cebolla paiteña	0.032339708	115	92
+Cazuela de Pescado	aceite de palma	0.016872891	60	440
+Cazuela de Pescado	pimiento rojo	0.016872891	60	118
+Cazuela de Pescado	pimiento verde	0.016872891	60	119
+Cazuela de Pescado	cebolla blanca	0.008436445	30	91
+Cazuela de Pescado	mantequilla	0.003374578	12	448
+Cazuela de Pescado	culantro	0.001687289	6	97
+Cazuela de Pescado	sal 	0.00056243	2	875
+Cazuela de Pescado	comino	0.000281215	1	871
+cebiche de camarón	jugo de naranja	0.248618785	90	181
+cebiche de camarón	camarón	0.220994475	80	232
+cebiche de camarón	tomate riñón	0.110497238	40	110
+cebiche de camarón	canguil	0.099447514	36	39
+cebiche de camarón	cebolla paiteña	0.082872928	30	92
+cebiche de camarón	chifles	0.055248619	20	836
+cebiche de camarón	tostado	0.055248619	20	35
+cebiche de camarón	salsa de tomate	0.046961326	17	746
+cebiche de camarón	aceite vegetal	0.027624309	10	444
+cebiche de camarón	jugo de limón	0.027624309	10	169
+cebiche de camarón	mostaza	0.013812155	5	741
+cebiche de camarón	culantro	0.008287293	3	97
+cebiche de camarón	pimienta	0.001381215	0.5	873
+cebiche de camarón	sal 	0.001381215	0.5	875
+cebiche de camarón con arroz	arroz	0.22668004	113	7
+cebiche de camarón con arroz	jugo de naranja	0.180541625	90	181
+cebiche de camarón con arroz	concha	0.080240722	40	257
+cebiche de camarón con arroz	tomate riñón	0.080240722	40	110
+cebiche de camarón con arroz	canguil	0.07221665	36	39
+cebiche de camarón con arroz	camarón	0.060180542	30	232
+cebiche de camarón con arroz	cebolla paiteña	0.060180542	30	92
+cebiche de camarón con arroz	pescado	0.060180542	30	223
+cebiche de camarón con arroz	chifles	0.040120361	20	836
+cebiche de camarón con arroz	tostado	0.040120361	20	35
+cebiche de camarón con arroz	salsa de tomate	0.034102307	17	746
+cebiche de camarón con arroz	aceite vegetal	0.020060181	10	444
+cebiche de camarón con arroz	jugo de limón	0.020060181	10	169
+cebiche de camarón con arroz	mostaza	0.01003009	5	741
+cebiche de camarón con arroz	culantro	0.006018054	3	97
+cebiche de camarón con arroz	aceite 	0.004012036	2	440
+cebiche de camarón con arroz	sal	0.003009027	1.5	875
+cebiche de camarón con arroz	pimienta	0.001003009	0.5	873
+cebiche de camarón con arroz	sal 	0.001003009	0.5	875
+cebiche de chochos	jugo de naranja	0.321728691	107.2	181
+cebiche de chochos	chochos	0.210084034	70	48
+cebiche de chochos	tomate riñón	0.120048019	40	110
+cebiche de chochos	cebolla paiteña	0.090036014	30	92
+cebiche de chochos	chifles	0.06002401	20	836
+cebiche de chochos	tostado	0.06002401	20	35
+cebiche de chochos	salsa de tomate	0.051020408	17	746
+cebiche de chochos	aceite vegetal	0.030012005	10	444
+cebiche de chochos	jugo de limón	0.030012005	10	169
+cebiche de chochos	mostaza	0.015006002	5	741
+cebiche de chochos	culantro	0.009003601	3	97
+cebiche de chochos	pimienta	0.0015006	0.5	873
+cebiche de chochos	sal 	0.0015006	0.5	875
+cebiche de concha	concha	0.241935484	90	257
+cebiche de concha	jugo de naranja	0.241935484	90	181
+cebiche de concha	tomate riñón	0.107526882	40	110
+cebiche de concha	canguil	0.096774194	36	39
+cebiche de concha	cebolla paiteña	0.080645161	30	92
+cebiche de concha	chifles	0.053763441	20	836
+cebiche de concha	tostado	0.053763441	20	35
+cebiche de concha	salsa de tomate	0.045698925	17	746
+cebiche de concha	aceite vegetal	0.02688172	10	444
+cebiche de concha	jugo de limón	0.02688172	10	169
+cebiche de concha	mostaza	0.01344086	5	741
+cebiche de concha	culantro	0.008064516	3	97
+cebiche de concha	pimienta	0.001344086	0.5	873
+cebiche de concha	sal 	0.001344086	0.5	875
+cebiche de pescado	pescado	0.261780105	100	277
+cebiche de pescado	jugo de naranja	0.235602094	90	181
+cebiche de pescado	tomate riñón	0.104712042	40	110
+cebiche de pescado	canguil	0.094240838	36	39
+cebiche de pescado	cebolla paiteña	0.078534031	30	92
+cebiche de pescado	chifles	0.052356021	20	836
+cebiche de pescado	tostado	0.052356021	20	35
+cebiche de pescado	salsa de tomate	0.044502618	17	746
+cebiche de pescado	aceite vegetal	0.02617801	10	444
+cebiche de pescado	jugo de limón	0.02617801	10	169
+cebiche de pescado	mostaza	0.013089005	5	741
+cebiche de pescado	culantro	0.007853403	3	97
+cebiche de pescado	pimienta	0.001308901	0.5	873
+cebiche de pescado	sal 	0.001308901	0.5	875
+cebiche de pollo 	jugo de naranja	0.248618785	90	181
+cebiche de pollo 	pollo	0.220994475	80	327
+cebiche de pollo 	tomate riñón	0.110497238	40	110
+cebiche de pollo 	canguil	0.099447514	36	39
+cebiche de pollo 	cebolla paiteña	0.082872928	30	92
+cebiche de pollo 	chifles	0.055248619	20	836
+cebiche de pollo 	tostado	0.055248619	20	35
+cebiche de pollo 	salsa de tomate	0.046961326	17	746
+cebiche de pollo 	aceite vegetal	0.027624309	10	444
+cebiche de pollo 	jugo de limón	0.027624309	10	169
+cebiche de pollo 	mostaza	0.013812155	5	741
+cebiche de pollo 	culantro	0.008287293	3	97
+cebiche de pollo 	pimienta	0.001381215	0.5	873
+cebiche de pollo 	sal 	0.001381215	0.5	875
+Champús	agua	0.431397079	2000	878
+Champús	babaco	0.166087876	770	138
+Champús	harina de maíz	0.097927137	454	23
+Champús	panela	0.097927137	454	465
+Champús	piña	0.071180518	330	191
+Champús	naranjilla	0.064709562	300	183
+Champús	membrillo	0.039688531	184	180
+Champús	mote	0.03106059	144	37
+Champús	canela	2.15699E-05	0.1	882
+chaulafán	arroz	0.267973085	454	7
+chaulafán	carne de cerdo	0.247904616	420	243
+chaulafán	pollo	0.247904616	420	327
+chaulafán	huevo	0.062566403	106	213
+chaulafán	camarón	0.059024909	100	232
+chaulafán	salsa de soya	0.031873451	54	745
+chaulafán	zanahoria	0.023609963	40	124
+chaulafán	arveja tierna	0.021367017	36.2	95
+chaulafán	cebolla paiteña	0.017707473	30	92
+chaulafán	aceite de palma	0.017707473	15	440
+chaulafán	sal	0.002360996	4	875
+Chicha de Chonta	jugo de caña	0.779220779	3000	144
+Chicha de Chonta	chontaduro	0.220779221	850	153
+chicha de máchica	agua	0.756072205	12000	878
+chicha de máchica	harina de cebada	0.085814195	1362	26
+chicha de máchica	babaco	0.048514633	770	138
+chicha de máchica	piña	0.047884573	760	191
+chicha de máchica	naranjilla	0.045364332	720	183
+chicha de máchica	panela	0.016192546	257	465
+chicha de máchica	canela	0.000157515	2.5	882
+Chicha de Yuca	agua	0.746640119	3000	878
+Chicha de Yuca	yuca	0.181184669	728	135
+Chicha de Yuca	azúcar	0.041811847	168	458
+Chicha de Yuca	camote	0.030363365	122	127
+chifles de dulce	plátano maduro	0.876344086	163	193
+chifles de dulce	aceite	0.123655914	23	440
+chifles de sal	plátano verde	0.909448819	231	197
+chifles de sal	aceite	0.090551181	23	440
+choclo con queso	choclo amarillo	0.669902913	138	105
+choclo con queso	queso	0.330097087	68	412
+chucula	leche entera	0.492707923	1000	387
+chucula	plátano maduro	0.321245566	652	193
+chucula	azúcar blanca	0.123176981	250	458
+chucula	queso fresco	0.059124951	120	412
+chucula	esencia de vainilla	0.00246354	5	881
+chucula	canela	0.001281041	2.6	882
+churrasco	carne de res	0.255474453	532	272
+churrasco	arroz	0.218017672	454	7
+churrasco	papa chola	0.218017672	454	133
+churrasco	huevo	0.101805609	212	213
+churrasco	tomate	0.080676143	168	110
+churrasco	aceite	0.06694199	139.4	440
+churrasco	cebollla paiteña	0.032174414	67	92
+churrasco	lechuga	0.021609681	45	111
+churrasco	ajo	0.002881291	6	80
+churrasco	sal	0.002401076	5	875
+cocada	agua de coco	0.340063762	480	150
+cocada	azúcar	0.321643642	454	458
+cocada	coco	0.257881686	364	957
+cocada	maní	0.08041091	113.5	67
+Cocada de leche	leche entera	0.336134454	480	387
+Cocada de leche	azúcar	0.317927171	454	458
+Cocada de leche	coco	0.254901961	364	957
+Cocada de leche	huevo yema	0.044817927	64	212
+Cocada de leche	mantequilla	0.039215686	56	448
+Cocada de leche	jugo de limón	0.007002801	10	169
+colada de arveja	agua	0.449754041	960	878
+colada de arveja	carne de cerdo con hueso	0.212696182	454	267
+colada de arveja	papa	0.187397517	400	133
+colada de arveja	harina de arveja seca	0.093698758	200	21
+colada de arveja	col blanca	0.033731553	72	98
+colada de arveja	cebolla blanca	0.00983837	21	91
+colada de arveja	perejil	0.004684938	10	117
+colada de arveja	sal	0.002810963	6	875
+colada de arveja	aceite	0.002342469	5	440
+colada de arveja	achiote	0.002342469	5	889
+colada de arveja	comino	0.000702741	1.5	871
+colada de sambo	sambo	0.479741263	2136	96
+colada de sambo	panela	0.304554847	1356	464
+colada de sambo	leche entera	0.161710538	720	387
+colada de sambo	agua	0.053903513	240	878
+colada de sambo	canela	8.98392E-05	0.4	882
+colada de uvilla	agua	0.616294835	1000	878
+colada de uvilla	uvilla	0.279797855	454	208
+colada de uvilla	azúcar	0.061629484	100	458
+colada de uvilla	harina	0.042216196	68.5	28
+colada de uvilla	canela	6.16295E-05	0.1	882
+colada de yaguana	agua	0.57555061	1500	878
+colada de yaguana	babaco	0.107436114	280	138
+colada de yaguana	piña	0.107436114	280	191
+colada de yaguana	naranja	0.07520528	196	182
+colada de yaguana	azúcar	0.053718057	140	458
+colada de yaguana	naranjilla	0.042974446	112	183
+colada de yaguana	almidón de achira	0.032230834	84	134
+colada de yaguana	jugo de limón	0.005371806	14	169
+colada de yaguana	canela	7.67401E-05	0.2	882
+Colada Morada	agua	0.659322546	4800	878
+Colada Morada	mora	0.061811489	450	209
+Colada Morada	mortiño	0.061811489	450	142
+Colada Morada	babaco	0.052196368	380	138
+Colada Morada	harina morada	0.038185764	278	23
+Colada Morada	azúcar	0.034339716	250	458
+Colada Morada	piña	0.033652922	245	191
+Colada Morada	frutilla	0.031180462	227	155
+Colada Morada	naranjilla	0.027471773	200	183
+Colada Morada	canela	2.74718E-05	0.2	882
+conejo asado	conejo	0.608828006	2000	265
+conejo asado	papa	0.276407915	908	133
+conejo asado	leche entera	0.073059361	240	387
+conejo asado	mani molido	0.023439878	77	69
+conejo asado	ajo	0.00913242	30	80
+conejo asado	sal	0.00608828	20	875
+conejo asado	comino	0.00304414	10	871
+corviche	plátano verde	0.505022831	1106	197
+corviche	pescado dorado	0.228310502	500	269
+corviche	maní 	0.076712329	168	69
+corviche	tomate riñón	0.069863014	153	110
+corviche	aceite de palma	0.054794521	120	440
+corviche	pimiento verde	0.042009132	92	119
+corviche	cebolla paiteña	0.021917808	48	92
+corviche	sal	0.001369863	3	875
+cuchichaqui	agua	0.353045013	400	878
+cuchichaqui	harina de maíz	0.26478376	300	23
+cuchichaqui	queso fresco	0.13239188	150	412
+cuchichaqui	manteca de cerdo	0.105913504	120	447
+cuchichaqui	yema de huevo	0.082082966	93	212
+cuchichaqui	sal	0.044130627	50	875
+cuchichaqui	cebolla blanca	0.017652251	20	91
+cuy asado	cuy	0.970873786	1000	268
+cuy asado	ajo	0.014563107	15	80
+cuy asado	sal	0.009708738	10	875
+cuy asado	comino	0.004854369	5	871
+cuy con papas	cuy	0.515995872	1000	268
+cuy con papas	papa	0.468524252	908	133
+cuy con papas	ajo	0.007739938	15	80
+cuy con papas	sal	0.005159959	10	875
+cuy con papas	comino	0.002579979	5	871
+Dulce de Guineo	platano	0.574712644	1000	195
+Dulce de Guineo	miel de caña	0.356321839	620	456
+Dulce de Guineo	zumo de naranja	0.063218391	110	181
+Dulce de Guineo	canela 	0.005747126	10	882
+emborrajados	plátano maduro	0.529908973	815	193
+emborrajados	queso fresco	0.195058518	300	412
+emborrajados	harina de trigo	0.130039012	200	28
+emborrajados	leche entera	0.078023407	120	387
+emborrajados	huevo	0.034460338	53	213
+emborrajados	aceite	0.032509753	50	440
+Empanada de camarón	agua	0.307495195	960	878
+Empanada de camarón	harina de trigo	0.240230621	750	28
+Empanada de camarón	camarón	0.160153748	500	232
+Empanada de camarón	mantequilla	0.160153748	500	448
+Empanada de camarón	huevo	0.033952594	106	213
+Empanada de camarón	zanahoria amarilla	0.019859065	62	124
+Empanada de camarón	pasas	0.016015375	50	852
+Empanada de camarón	pimiento verde	0.016015375	50	119
+Empanada de camarón	cebolla blanca	0.013452915	42	91
+Empanada de camarón	aceite	0.0128123	40	440
+Empanada de camarón	arveja tierna	0.0128123	40	95
+Empanada de camarón	azúcar	0.00384369	12	458
+Empanada de camarón	sal	0.003203075	10	875
+Empanada de carne	agua	0.307495195	960	878
+Empanada de carne	harina de trigo	0.240230621	750	28
+Empanada de carne	carne de res	0.160153748	500	241
+Empanada de carne	mantequilla	0.160153748	500	448
+Empanada de carne	huevo	0.033952594	106	213
+Empanada de carne	zanahoria amarilla	0.019859065	62	124
+Empanada de carne	pasas	0.016015375	50	852
+Empanada de carne	pimiento verde	0.016015375	50	119
+Empanada de carne	cebolla blanca	0.013452915	42	91
+Empanada de carne	aceite	0.0128123	40	440
+Empanada de carne	arveja tierna	0.0128123	40	95
+Empanada de carne	azúcar	0.00384369	12	458
+Empanada de carne	sal	0.003203075	10	875
+Empanada de pollo	agua	0.307495195	960	878
+Empanada de pollo	harina de trigo	0.240230621	750	28
+Empanada de pollo	mantequilla	0.160153748	500	448
+Empanada de pollo	pollo	0.160153748	500	327
+Empanada de pollo	huevo	0.033952594	106	213
+Empanada de pollo	zanahoria amarilla	0.019859065	62	124
+Empanada de pollo	pasas	0.016015375	50	852
+Empanada de pollo	pimiento verde	0.016015375	50	119
+Empanada de pollo	cebolla blanca	0.013452915	42	91
+Empanada de pollo	aceite	0.0128123	40	440
+Empanada de pollo	arveja tierna	0.0128123	40	95
+Empanada de pollo	azúcar	0.00384369	12	458
+Empanada de pollo	sal	0.003203075	10	875
+empanadas de morocho	morocho	0.339443313	500	36
+empanadas de morocho	zanahoria	0.203665988	300	124
+empanadas de morocho	carne molida	0.169721656	250	235
+empanadas de morocho	arveja	0.135777325	200	95
+empanadas de morocho	cebolla perla	0.067888663	100	90
+empanadas de morocho	clara de huevo	0.042090971	62	211
+empanadas de morocho	manteca de cerdo	0.033944331	50	447
+empanadas de morocho	sal	0.005431093	8	875
+empanadas de morocho	pimiento verde	0.00203666	3	119
+empanadas de verde	plátano verde	0.784713376	1848	197
+empanadas de verde	queso fresco	0.106157113	250	412
+empanadas de verde	cebolla blanca	0.03566879	84	91
+empanadas de verde	aceite vegetal	0.033970276	80	444
+empanadas de verde	manteca de cerdo	0.025477707	60	447
+empanadas de verde	sal	0.006794055	16	875
+empanadas de verde	achiote	0.004246285	10	889
+empanadas de verde	pimienta	0.001698514	4	873
+empanadas de verde	comino	0.001273885	3	871
+empanadas de viento	harina de trigo	0.343419062	227	28
+empanadas de viento	queso fresco	0.254160363	168	412
+empanadas de viento	aceite de palma	0.121028744	80	440
+empanadas de viento	azúcar	0.096822995	64	458
+empanadas de viento	agua	0.090771558	60	878
+empanadas de viento	mantequilla	0.084720121	56	448
+empanadas de viento	polvo de hornear	0.004538578	3	876
+empanadas de viento	sal	0.004538578	3	875
+Encebollado	agua	0.317935291	1700	878
+Encebollado	yuca	0.178043763	952	135
+Encebollado	pescado albacora	0.169814849	908	218
+Encebollado	tomate riñón	0.114456705	612	110
+Encebollado	cebolla paiteña	0.110342248	295	92
+Encebollado	limón sutil	0.053861979	288	168
+Encebollado	pimiento verde	0.03441182	184	119
+Encebollado	culantro	0.010473163	56	97
+Encebollado	aceite	0.005049561	27	440
+Encebollado	sal	0.002805311	15	875
+Encebollado	ajo	0.002244249	12	80
+Encebollado	comino	0.000561062	3	871
+Encebollado de pescado 	agua	0.31853101	1700	878
+Encebollado de pescado 	yuca	0.178377366	952	135
+Encebollado de pescado 	pescado albacora	0.170133034	908	218
+Encebollado de pescado 	tomate riñón	0.114671164	612	110
+Encebollado de pescado 	cebolla paiteña	0.110548998	295	92
+Encebollado de pescado 	limón sutil	0.053962901	288	168
+Encebollado de pescado 	pimiento verde	0.034476298	184	119
+Encebollado de pescado 	culantro	0.010492786	56	97
+Encebollado de pescado 	aceite	0.005059022	27	440
+Encebollado de pescado 	ajo	0.002248454	12	80
+Encebollado de pescado 	sal	0.000936856	5	875
+Encebollado de pescado 	comino	0.000562114	3	871
+encocado de pescado	agua	0.374859428	1500	878
+encocado de pescado	pescado dorado	0.199925028	800	269
+encocado de pescado	plátano verde	0.127452205	510	197
+encocado de pescado	arroz	0.124953143	500	7
+encocado de pescado	leche de coco	0.059977508	240	151
+encocado de pescado	cebolla paiteña	0.044983131	180	92
+encocado de pescado	tomate riñón	0.029738848	119	110
+encocado de pescado	pimiento verde	0.017993253	72	119
+encocado de pescado	aceite vegetal	0.006247657	12.5	442
+encocado de pescado	cebolla blanca	0.005248032	21	91
+encocado de pescado	achiote	0.002499063	10	889
+encocado de pescado	perejil	0.002499063	10	117
+encocado de pescado	sal	0.002249157	9	875
+encocado de pescado	diente de ajo	0.000749719	3	80
+encocado de pescado	comino	0.000374859	1.5	871
+encocado de pescado	pimienta	0.000249906	1	873
+ensalada de frutas	sandía	0.281742354	608	199
+ensalada de frutas	frutilla	0.231696015	500	155
+ensalada de frutas	jugo de naranja	0.159406858	344	181
+ensalada de frutas	plátano de seda	0.131603336	284	195
+ensalada de frutas	manzana	0.102873031	222	176
+ensalada de frutas	durazno	0.092678406	200	154
+ensalada de melloco	tomate riñón	0.550024888	221	110
+ensalada de melloco	melloco	0.338476854	136	128
+ensalada de melloco	cebolla paiteña	0.049776008	20	92
+ensalada de melloco	jugo de limón	0.024888004	10	169
+ensalada de melloco	sal	0.022399204	9	875
+ensalada de melloco	perejil	0.009457442	3.8	117
+ensalada de melloco	pimienta	0.004977601	2	873
+ensumacado de mariscos	leche de coco	0.254194204	1000	151
+ensumacado de mariscos	pescado	0.230808338	908	277
+ensumacado de mariscos	concha	0.228774784	900	257
+ensumacado de mariscos	camarón	0.115404169	454	232
+ensumacado de mariscos	almejas	0.045754957	180	219
+ensumacado de mariscos	tomate riñón	0.038891713	153	110
+ensumacado de mariscos	cebolla perla	0.02719878	107	90
+ensumacado de mariscos	pimiento verde	0.023385867	92	119
+ensumacado de mariscos	aceite de palma	0.010167768	40	440
+ensumacado de mariscos	cangrejo	0.010167768	40	264
+ensumacado de mariscos	culantro	0.006609049	26	97
+ensumacado de mariscos	cebolla blanca	0.00305033	12	91
+ensumacado de mariscos	ajo	0.001525165	6	80
+ensumacado de mariscos	achiote	0.001270971	5	889
+ensumacado de mariscos	sal	0.001270971	5	875
+ensumacado de mariscos	perejil	0.001016777	4	117
+ensumacado de mariscos	comino	0.000508388	2	871
+estofado de pescado	pescado dorado	0.380872483	454	269
+estofado de pescado	tomate riñón	0.256711409	306	110
+estofado de pescado	plátano verde	0.193791946	231	197
+estofado de pescado	cebolla paiteña	0.151006711	180	92
+estofado de pescado	aceite de palma	0.008389262	10	440
+estofado de pescado	perejil	0.004194631	5	117
+estofado de pescado	ajo	0.002516779	3	80
+estofado de pescado	sal	0.001677852	2	875
+estofado de pescado	comino	0.000838926	1	871
+fritada	papa	0.38212504	1080	133
+fritada	costilla de cerdo	0.321268089	908	246
+fritada	tostado	0.087039592	246	35
+fritada	maduro	0.086508863	244.5	193
+fritada	mote	0.052294519	147.8	37
+fritada	agua	0.042458338	120	878
+fritada	cebolla blanca	0.016983335	48	91
+fritada	aceite	0.00707639	40	440
+fritada	ajo	0.004245834	12	80
+galletas de almidón	almidón de yuca	0.599795814	470	1
+galletas de almidón	azúcar	0.212608474	166.6	458
+galletas de almidón	mantequilla	0.144844308	113.5	448
+galletas de almidón	yema de huevo	0.040837162	32	212
+galletas de almidón	canela en polvo	0.001914242	1.5	882
+Guatita	agua	0.279811855	1000	878
+Guatita	panza de res	0.190551873	681	298
+Guatita	papa	0.167887113	600	133
+Guatita	arroz	0.139905927	500	7
+Guatita	leche entera	0.067154845	240	387
+Guatita	mani molido	0.033577423	120	69
+Guatita	cebolla paiteña	0.026861938	96	92
+Guatita	pimiento verde	0.020146454	72	119
+Guatita	lechuga	0.019307018	69	111
+Guatita	aguacate	0.018979638	67.83	76
+Guatita	cebolla blanca	0.018747394	67	91
+Guatita	culantro	0.007275108	26	97
+Guatita	aceite	0.003917366	14	440
+Guatita	sal 	0.002518307	9	875
+Guatita	ajo	0.001678871	6	80
+Guatita	comino 	0.001259153	4.5	871
+Guatita	pimienta 	0.000419718	1.5	873
+helado de paila de mora	pulpa de mora	0.762195122	1000	209
+helado de paila de mora	azúcar	0.19054878	250	458
+helado de paila de mora	clara de huevo	0.047256098	62	211
+helados de chocho	leche entera	0.526700805	720	387
+helados de chocho	crema de leche	0.160936357	220	383
+helados de chocho	azúcar	0.146305779	200	458
+helados de chocho	chocho	0.128017557	175	48
+helados de chocho	yema de huevo	0.023408925	32	212
+helados de chocho	maicena	0.014630578	20	31
+helados de leche	leche entera	0.830472816	750	387
+helados de leche	azúcar blanca	0.110729709	100	458
+helados de leche	huevo	0.058686746	53	213
+helados de leche	canela en rama	0.00011073	0.1	882
+higos con pan	panela molida	0.314005649	75.6	465
+higos con pan	pan manito	0.274131916	66	653
+higos con pan	agua	0.166140555	40	878
+higos con pan	queso fresco	0.124605416	30	412
+higos con pan	higos	0.121116465	29.16	163
+higos con queso	panela molida	0.432793136	908	465
+higos con queso	agua	0.228789323	480	878
+higos con queso	queso fresco	0.171591992	360	412
+higos con queso	higos	0.166825548	350	163
+hornado con mote 	papa	0.261568953	1135	133
+hornado con mote 	pierna de cerdo	0.261568953	1135	246
+hornado con mote 	mote	0.104627581	454	37
+hornado con mote 	queso fresco	0.085960546	373	412
+hornado con mote 	aguacate	0.078355457	340	76
+hornado con mote 	cebolla paiteña	0.058536136	254	92
+hornado con mote 	tomate riñón	0.050931047	221	110
+hornado con mote 	lechuga	0.039177729	170	111
+hornado con mote 	cerveza	0.02074115	90	816
+hornado con mote 	sal	0.013827434	20	875
+hornado con mote 	ajo	0.010370575	45	80
+hornado con mote 	achiote	0.004609145	20	889
+hornado con mote 	mantequilla	0.003272493	14.2	448
+hornado con mote 	jugo de limón	0.002765487	12	169
+hornado con mote 	comino	0.002304572	10	871
+hornado con mote 	culantro	0.000691372	3	97
+hornado con mote 	pimienta	0.000691372	3	873
+humita de dulce	choclo desgranado	0.502890173	870	106
+humita de dulce	queso fresco	0.129479769	224	412
+humita de dulce	huevo	0.122543353	212	213
+humita de dulce	azúcar	0.101156069	175	458
+humita de dulce	leche entera	0.069364162	120	387
+humita de dulce	manteca de cerdo	0.032947977	57	447
+humita de dulce	mantequilla	0.032947977	57	448
+humita de dulce	sal	0.00867052	15	875
+humita de sal	choclo desgranado	0.559485531	870	106
+humita de sal	queso fresco	0.144051447	224	412
+humita de sal	huevo	0.136334405	212	213
+humita de sal	leche entera	0.077170418	120	387
+humita de sal	manteca de cerdo	0.036655949	57	447
+humita de sal	mantequilla	0.036655949	57	448
+humita de sal	sal	0.009646302	15	875
+Librillo	agua	0.259011663	1000	878
+Librillo	panza de res	0.176386943	681	298
+Librillo	papa	0.176386943	681	133
+Librillo	arroz	0.175609908	678	7
+Librillo	leche entera	0.062162799	240	387
+Librillo	mani molido	0.038851749	150	69
+Librillo	cebolla paiteña	0.02486512	96	92
+Librillo	pimiento verde	0.01864884	72	119
+Librillo	lechuga	0.017871805	69	111
+Librillo	aguacate	0.017568761	67.83	76
+Librillo	cebolla blanca	0.017353781	67	91
+Librillo	culantro	0.006734303	26	97
+Librillo	aceite	0.00466221	18	440
+Librillo	ajo	0.00155407	6	80
+Librillo	comino 	0.001165552	4.5	871
+Librillo	sal	0.000777035	3	875
+Librillo	pimienta 	0.000388517	1.5	873
+llapingachos con chorizo	papa	0.315962363	1135	133
+llapingachos con chorizo	huevo	0.147541896	530	213
+llapingachos con chorizo	chorizo	0.122487612	440	261
+llapingachos con chorizo	tomate	0.116919993	420	110
+llapingachos con chorizo	queso fresco	0.103836089	373	412
+llapingachos con chorizo	aguacate	0.094649518	340	76
+llapingachos con chorizo	lechuga	0.047324759	170	111
+llapingachos con chorizo	aceite	0.036189522	130	440
+llapingachos con chorizo	achiote	0.005567619	20	889
+llapingachos con chorizo	sal	0.005567619	20	875
+llapingachos con chorizo	mantequilla	0.003953009	14.2	448
+locro de papa	agua	0.384216391	1000	878
+locro de papa	papa chola	0.348868483	908	133
+locro de papa	queso fresco	0.096630422	251.5	412
+locro de papa	leche entera	0.092211934	240	387
+locro de papa	aguacate	0.052253429	136	76
+locro de papa	cebolla blanca	0.008068544	21	91
+locro de papa	manteca	0.005455873	14.2	447
+locro de papa	aceite	0.003842164	10	440
+locro de papa	perejil	0.003842164	10	117
+locro de papa	sal	0.002305298	6	875
+locro de papa	achiote	0.001152649	3	889
+locro de papa	ajo	0.001152649	3	80
+maduro con queso	plátano maduro 	0.644268775	163	412
+maduro con queso	queso fresco	0.355731225	90	193
+Maito	tilapia	0.505561173	250	369
+Maito	verde	0.161779575	80	197
+Maito	yuca	0.161779575	80	135
+Maito	tomate riñón	0.127401416	63	110
+Maito	cebolla paiteña	0.040444894	20	92
+Maito	sal	0.003033367	1.5	875
+maracuyá inti	agua	0.8625	207	878
+maracuyá inti	maracuyá	0.104166667	25	956
+maracuyá inti	panela	0.033333333	8	465
+Mazamorra	leche entera	0.909090909	240	387
+Mazamorra	harina de maíz	0.064393939	17	23
+Mazamorra	panela	0.022727273	6	464
+Mazamorra	canela	0.003787879	1	882
+menudo de cerdo	papa chola	0.362976407	1000	133
+menudo de cerdo	corazón de cerdo	0.108892922	300	266
+menudo de cerdo	hígado de cerdo	0.108892922	300	279
+menudo de cerdo	pulmón de cerdo	0.108892922	300	332
+menudo de cerdo	riñón de cerdo	0.108892922	300	337
+menudo de cerdo	cebolla blanca	0.036297641	100	91
+menudo de cerdo	cebolla perla	0.036297641	100	90
+menudo de cerdo	aliño	0.021778584	60	870
+menudo de cerdo	aceite de palma	0.01814882	50	440
+menudo de cerdo	culantro	0.01814882	50	97
+menudo de cerdo	leche	0.01814882	50	387
+menudo de cerdo	mantequilla	0.01814882	50	448
+menudo de cerdo	pasta de maní	0.01814882	50	69
+menudo de cerdo	achiote	0.007259528	20	889
+menudo de cerdo	sal	0.005444646	15	875
+menudo de cerdo	comino	0.003629764	10	871
+Morocho	leche entera	0.745934656	2000	387
+Morocho	azúcar	0.169327167	454	458
+Morocho	morocho 	0.084663583	227	36
+Morocho	canela	7.45935E-05	0.2	882
+Morocho con leche de dulce	leche entera	0.745934656	2000	387
+Morocho con leche de dulce	azúcar	0.169327167	454	458
+Morocho con leche de dulce	morocho 	0.084663583	227	36
+Morocho con leche de dulce	canela	7.45935E-05	0.2	882
+Morocho con leche sin dulce	leche entera	0.897988506	2000	387
+Morocho con leche sin dulce	morocho 	0.101921695	227	36
+Morocho con leche sin dulce	canela	8.97989E-05	0.2	882
+mote casado	agua	0.638569604	1500	878
+mote casado	leche entera	0.102171137	240	387
+mote casado	fréjol seco	0.078331205	184	49
+mote casado	cebolla blanca	0.068114091	160	91
+mote casado	aguacate	0.043422733	102	76
+mote casado	queso blanco	0.038314176	90	412
+mote casado	mote	0.021285653	50	37
+mote casado	sal	0.00553427	6.5	875
+mote casado	ajo	0.002554278	6	80
+mote casado	comino	0.00063857	1.5	871
+mote casado	pimienta	0.00063857	1.5	873
+mote casado	orégano	0.000425713	1	115
+mote pillo	mote	0.682025028	1199	37
+mote pillo	huevo	0.180887372	318	213
+mote pillo	leche entera	0.068259386	120	387
+mote pillo	cebolla blanca	0.045506257	80	91
+mote pillo	sal	0.010238908	18	875
+mote pillo	achiote	0.005688282	10	889
+mote pillo	culantro	0.003412969	6	97
+mote pillo	pimienta	0.002275313	4	873
+mote pillo	ajo	0.001706485	3	80
+mote sucio	mote	0.83624977	908	37
+mote sucio	chicharrón de cerdo	0.110517591	120	260
+mote sucio	cebolla blanca	0.036839197	40	91
+mote sucio	manteca	0.006446859	7	447
+mote sucio	sal	0.0046049	5	875
+mote sucio	culantro	0.003499724	3.8	97
+mote sucio	pimienta	0.00184196	2	871
+pan de yuca	queso fresco	0.456769984	280	412
+pan de yuca	almidón de yuca	0.370309951	227	1
+pan de yuca	huevo	0.172920065	106	213
+papas con cuero	agua	0.541033807	3000	878
+papas con cuero	papa	0.327505798	1816	133
+papas con cuero	cuero de cerdo	0.08187645	454	256
+papas con cuero	aguacate	0.023163461	128.44	76
+papas con cuero	pasta de mani	0.011542055	64	69
+papas con cuero	cebolla blanca	0.008656541	48	91
+papas con cuero	achiote	0.003606892	20	889
+papas con cuero	sal	0.001983791	11	875
+papas con cuero	culantro	0.000541034	3	97
+papas con cuero	pimienta	9.01723E-05	0.5	873
+papas con nabo y ensalada de pepas de sambo	papa	0.693765281	908	133
+papas con nabo y ensalada de pepas de sambo	nabo 	0.183374083	240	113
+papas con nabo y ensalada de pepas de sambo	cebolla perla	0.051191932	67	90
+papas con nabo y ensalada de pepas de sambo	cebolla blanca	0.036674817	48	91
+papas con nabo y ensalada de pepas de sambo	manteca	0.02292176	30	447
+papas con nabo y ensalada de pepas de sambo	sal	0.009168704	12	875
+papas con nabo y ensalada de pepas de sambo	culantro 	0.002903423	3.8	97
+papas locas	agua	0.535911425	3000	878
+papas locas	papa	0.324405049	1816	133
+papas locas	cuero de cerdo	0.081101262	454	256
+papas locas	aguacate	0.022944154	128.44	76
+papas locas	pasta de mani	0.011432777	64	69
+papas locas	huevo 	0.009467769	53	213
+papas locas	cebolla blanca	0.008574583	48	91
+papas locas	achiote	0.003572743	20	889
+papas locas	sal	0.001965009	11	875
+papas locas	culantro	0.000535911	3	97
+papas locas	pimienta	8.93186E-05	0.5	873
+pastel de chocolate	azúcar	0.26869682	150	458
+pastel de chocolate	mantequilla	0.203313927	113.5	448
+pastel de chocolate	huevo	0.189879086	106	213
+pastel de chocolate	harina	0.184057322	102.75	28
+pastel de chocolate	chocolate	0.150470219	84	695
+pastel de chocolate	sal	0.003582624	2	875
+pastel de maqueño 	plátano maqueño	0.637388263	820	194
+pastel de maqueño 	huevo	0.123591139	159	213
+pastel de maqueño 	queso fresco	0.087057909	112	412
+pastel de maqueño 	panela molida	0.077730276	100	465
+pastel de maqueño 	mantequilla	0.041974349	54	448
+pastel de maqueño 	pasas	0.03109211	40	852
+pastel de maqueño 	canela en polvo	0.001165954	1.5	882
+pastel de zanahoria	harina de trigo	0.216637782	300	28
+pastel de zanahoria	mantequilla	0.180531485	250	448
+pastel de zanahoria	zanahoria	0.158867707	220	124
+pastel de zanahoria	huevo	0.153090699	212	213
+pastel de zanahoria	azúcar blanca	0.144425188	200	458
+pastel de zanahoria	azúcar morena	0.144425188	200	460
+pastel de zanahoria	canela en polvo	0.001877527	2.6	882
+pastel de zanahoria	sal	0.000144425	0.2	875
+pescado apanado con menestra y arroz	plátano verde	0.300034686	346	197
+pescado apanado con menestra y arroz	arroz	0.196843566	227	7
+pescado apanado con menestra y arroz	róbalo	0.169961845	196	340
+pescado apanado con menestra y arroz	tomate riñón	0.10319112	119	110
+pescado apanado con menestra y arroz	frejol	0.086715227	100	960
+pescado apanado con menestra y arroz	huevo 	0.04595907	53	213
+pescado apanado con menestra y arroz	cebolla paiteña	0.034686091	40	92
+pescado apanado con menestra y arroz	cebolla blanca	0.020811655	24	91
+pescado apanado con menestra y arroz	ajo	0.010405827	12	80
+pescado apanado con menestra y arroz	limón	0.010405827	12	168
+pescado apanado con menestra y arroz	aceite	0.008671523	10	440
+pescado apanado con menestra y arroz	harina de trigo	0.008671523	10	28
+pescado apanado con menestra y arroz	sal	0.003468609	4	875
+pescado apanado con menestra y arroz	pimienta	0.00017343	0.2	873
+Pescado frito	pescado dorado	0.912778905	90	269
+Pescado frito	aceite	0.050709939	5	440
+Pescado frito	ajo	0.030425963	3	80
+Pescado frito	comino	0.002028398	0.2	871
+Pescado frito	pimienta	0.002028398	0.2	873
+Pescado frito	sal 	0.002028398	0.2	875
+pincho	carne de res	0.340909091	60	272
+pincho	papa chola	0.215909091	38	133
+pincho	botones de carne de cerdo	0.142045455	25	350
+pincho	salchicha	0.125	22	346
+pincho	maduro	0.073863636	13	193
+pincho	cebolla paiteña	0.039772727	7	92
+pincho	pimiento verde	0.039772727	7	119
+pincho	aceite	0.017045455	3	440
+pincho	aliño mixto	0.002840909	0.5	870
+pincho	sal	0.002840909	0.5	875
+Pincho de chontacuro	chontacuros	0.943396226	25	375
+Pincho de chontacuro	sal	0.056603774	1.5	875
+plátano asado con queso	plátano verde	0.658119658	231	197
+plátano asado con queso	queso fresco	0.341880342	120	412
+plátano asado solo	plátano verde	1	231	197
+plátano frito 	plátano verde	0.909448819	231	197
+plátano frito 	aceite	0.090551181	23	440
+plátano frito con queso	plátano verde	0.617647059	231	197
+plátano frito con queso	queso fresco	0.320855615	120	412
+plátano frito con queso	aceite	0.061497326	23	440
+puchero	agua	0.400213447	1500	878
+puchero	costilla de cerdo	0.24226254	908	246
+puchero	papa	0.24226254	908	133
+puchero	leche entera	0.064034152	240	387
+puchero	col blanca	0.024546425	92	98
+puchero	cebolla blanca	0.01280683	48	91
+puchero	arroz	0.010672359	40	7
+puchero	ajo	0.002401281	9	80
+puchero	comino	0.000533618	2	871
+puchero	orégano	0.000266809	1	115
+quimbolito	huevo	0.260016353	477	213
+quimbolito	harina de maíz blanco	0.185336604	340	23
+quimbolito	queso fresco 	0.185336604	340	412
+quimbolito	azúcar	0.144998637	133	458
+quimbolito	mantequilla	0.123739439	227	448
+quimbolito	manteca de cerdo	0.061052058	112	447
+quimbolito	pasas	0.039520305	72.5	852
+refresco de avena	agua	0.81532817	2000	878
+refresco de avena	naranjilla	0.061149613	150	183
+refresco de avena	piña	0.061149613	150	191
+refresco de avena	azúcar	0.045658377	112	458
+refresco de avena	avena	0.016306563	40	10
+refresco de avena	canela	0.000407664	1	882
+salchipapas 	papas	0.654664484	800	133
+salchipapas 	salchicha	0.157119476	192	346
+salchipapas 	aceite	0.073649755	90	440
+salchipapas 	salsa de tomate	0.049099836	60	746
+salchipapas 	mayonesa	0.045008183	55	740
+salchipapas 	mostaza	0.016366612	20	741
+salchipapas 	sal	0.004091653	5	875
+sancocho de pescado 	agua	0.552753403	2000	878
+sancocho de pescado 	yuca pelada	0.100601119	364	135
+sancocho de pescado 	choclo amarillo con mazorca	0.07627997	276	105
+sancocho de pescado 	plátano verde	0.070614247	255.5	197
+sancocho de pescado 	pescado dorado	0.066330408	480	269
+sancocho de pescado 	carne de res	0.062737511	454	237
+sancocho de pescado 	pimiento verde	0.019899123	72	119
+sancocho de pescado 	cebolla perla 	0.018517239	67	90
+sancocho de pescado 	arveja	0.009949561	36	95
+sancocho de pescado 	zanahoria	0.008844054	32	124
+sancocho de pescado 	culantro	0.007185794	26	97
+sancocho de pescado 	aceite	0.002763767	10	440
+sancocho de pescado 	dientes de ajo	0.00165826	6	80
+sancocho de pescado 	sal	0.00165826	6	875
+sancocho de pescado 	pimienta	0.000207283	0.75	873
+sánduche de pernil	lomo de cerdo	0.463871543	104	246
+sánduche de pernil	pan enrollado	0.245316682	55	657
+sánduche de pernil	tomate riñón	0.187332739	42	110
+sánduche de pernil	cebolla paiteña	0.089206066	20	92
+sánduche de pernil	achiote	0.004460303	1	889
+sánduche de pernil	ajo 	0.004460303	1	80
+sánduche de pernil	sal 	0.004460303	1	875
+sánduche de pernil	comino	0.000892061	0.2	871
+sango de camarón	arroz	0.314986124	681	7
+sango de camarón	camarón	0.209990749	454	232
+sango de camarón	leche	0.111008326	240	387
+sango de camarón	tomate riñón	0.110083256	238	110
+sango de camarón	plátano verde	0.106845513	231	197
+sango de camarón	agua	0.055504163	120	878
+sango de camarón	cebolla paiteña	0.04440333	96	92
+sango de camarón	pimiento verde	0.033302498	72	119
+sango de camarón	sal	0.006475486	14	875
+sango de camarón	ajo	0.004162812	9	80
+sango de camarón	comino	0.001387604	3	871
+sango de camarón	pimienta	0.001387604	3	873
+sango de camarón	perejil	0.000462535	1	117
+seco de carne	carne de res	0.243196915	1135	238
+seco de carne	arroz	0.194557532	908	7
+seco de carne	papa	0.179987144	840	133
+seco de carne	tomate riñón	0.127490894	595	110
+seco de carne	arveja tierna	0.097278766	454	95
+seco de carne	cebolla paiteña	0.081637026	381	92
+seco de carne	pimiento rojo	0.060424255	282	118
+seco de carne	perejil	0.01071352	50	117
+seco de carne	ajo	0.003214056	15	80
+seco de carne	manteca de cerdo	0.001499893	7	447
+seco de chivo	chuleta de borrego	0.303459708	1135	228
+seco de chivo	tomate riñón	0.182075825	681	110
+seco de chivo	arroz	0.181273729	678	7
+seco de chivo	cerveza	0.133682691	500	816
+seco de chivo	papa 	0.128335383	480	133
+seco de chivo	cebolla paiteña	0.032083846	120	92
+seco de chivo	pimiento verde	0.019918721	74.5	119
+seco de chivo	aceite	0.005347308	20	440
+seco de chivo	culantro	0.005347308	20	97
+seco de chivo	apio	0.004545211	17	83
+seco de chivo	ajo	0.002406288	9	80
+seco de chivo	orégano	0.000721887	2.7	115
+seco de chivo	comino	0.000401048	1.5	871
+seco de chivo	pimienta	0.000401048	1.5	873
+seco de gallina criolla	gallina criolla	0.369105691	1816	273
+seco de gallina criolla	arroz	0.184552846	908	7
+seco de gallina criolla	tomate riñón	0.120934959	595	110
+seco de gallina criolla	arveja tierna	0.092276423	454	95
+seco de gallina criolla	plátano maduro	0.082723577	407	193
+seco de gallina criolla	cebolla paiteña	0.077439024	381	92
+seco de gallina criolla	pimiento rojo	0.057317073	282	118
+seco de gallina criolla	perejil	0.010162602	50	117
+seco de gallina criolla	ajo	0.00304878	15	80
+seco de gallina criolla	manteca de cerdo	0.001422764	7	447
+seco de gallina criolla	sal	0.00101626	5	875
+seco de pollo	gallina criolla	0.368730964	1816	327
+seco de pollo	arroz	0.184365482	908	7
+seco de pollo	tomate riñón	0.120812183	595	110
+seco de pollo	arveja tierna	0.092182741	454	95
+seco de pollo	plátano maduro	0.082639594	407	193
+seco de pollo	cebolla paiteña	0.077360406	381	92
+seco de pollo	pimiento rojo	0.057258883	282	118
+seco de pollo	perejil	0.010152284	50	117
+seco de pollo	ajo	0.003045685	15	80
+seco de pollo	sal	0.002030457	10	875
+seco de pollo	manteca de cerdo	0.00142132	7	447
+sopa de arroz con queso	agua	0.367253252	240	878
+sopa de arroz con queso	leche entera	0.244835501	160	387
+sopa de arroz con queso	arroz	0.172915073	113	7
+sopa de arroz con queso	queso fresco	0.091813313	60	412
+sopa de arroz con queso	zanahoria amarilla	0.061208875	40	124
+sopa de arroz con queso	cebolla blanca	0.03213466	21	91
+sopa de arroz con queso	culantro 	0.015302219	10	97
+sopa de arroz con queso	aceite	0.007651109	5	440
+sopa de arroz con queso	sal	0.004590666	3	875
+sopa de arroz con queso	ajo	0.002295333	1.5	80
+sopa de arroz de cebada	agua	0.482043866	2000	878
+sopa de arroz de cebada	hueso de cerdo	0.192817546	800	267
+sopa de arroz de cebada	papa	0.168715353	700	133
+sopa de arroz de cebada	arroz de cebada	0.07230658	300	9
+sopa de arroz de cebada	leche entera	0.060255483	250	387
+sopa de arroz de cebada	col blanca	0.010845987	45	98
+sopa de arroz de cebada	cebolla blanca	0.005061461	21	91
+sopa de arroz de cebada	sal	0.003615329	15	875
+sopa de arroz de cebada	aceite	0.002410219	10	440
+sopa de arroz de cebada	ajo	0.001446132	6	80
+sopa de arroz de cebada	pimienta	0.000482044	2	873
+sopa de bolas de verde rellenas de carne	agua	0.472255018	2000	878
+sopa de bolas de verde rellenas de carne	plátano verde	0.149232586	632	197
+sopa de bolas de verde rellenas de carne	carne de res	0.118063754	500	237
+sopa de bolas de verde rellenas de carne	hueso de res	0.118063754	500	239
+sopa de bolas de verde rellenas de carne	arveja tierna	0.034238489	145	95
+sopa de bolas de verde rellenas de carne	huevo	0.025029516	106	213
+sopa de bolas de verde rellenas de carne	cebolla paiteña	0.022668241	96	92
+sopa de bolas de verde rellenas de carne	zanahoria	0.019598583	83	124
+sopa de bolas de verde rellenas de carne	cebolla blanca	0.01133412	48	91
+sopa de bolas de verde rellenas de carne	aceite	0.007083825	30	440
+sopa de bolas de verde rellenas de carne	achiote en pasta	0.007083825	30	889
+sopa de bolas de verde rellenas de carne	col blanca	0.00566706	24	98
+sopa de bolas de verde rellenas de carne	pasta de maní	0.00377804	16	69
+sopa de bolas de verde rellenas de carne	ajo	0.00283353	12	80
+sopa de bolas de verde rellenas de carne	sal	0.002125148	9	875
+sopa de bolas de verde rellenas de carne	comino	0.000472255	2	871
+sopa de bolas de verde rellenas de carne	pimienta	0.000472255	2	873
+sopa de bolas de verde rellenas de queso	agua	0.489596083	2000	878
+sopa de bolas de verde rellenas de queso	plátano verde	0.154712362	632	197
+sopa de bolas de verde rellenas de queso	hueso de res	0.122399021	500	239
+sopa de bolas de verde rellenas de queso	queso fresco	0.088127295	360	412
+sopa de bolas de verde rellenas de queso	arveja tierna	0.035495716	145	95
+sopa de bolas de verde rellenas de queso	huevo	0.025948592	106	213
+sopa de bolas de verde rellenas de queso	cebolla paiteña	0.023500612	96	92
+sopa de bolas de verde rellenas de queso	zanahoria	0.020318237	83	124
+sopa de bolas de verde rellenas de queso	cebolla blanca	0.011750306	48	91
+sopa de bolas de verde rellenas de queso	achiote en pasta	0.007343941	30	889
+sopa de bolas de verde rellenas de queso	col blanca	0.005875153	24	98
+sopa de bolas de verde rellenas de queso	aceite	0.004895961	20	440
+sopa de bolas de verde rellenas de queso	pasta de maní	0.003916769	16	69
+sopa de bolas de verde rellenas de queso	ajo	0.002937576	12	80
+sopa de bolas de verde rellenas de queso	sal	0.002203182	9	875
+sopa de bolas de verde rellenas de queso	comino	0.000489596	2	871
+sopa de bolas de verde rellenas de queso	pimienta	0.000489596	2	873
+sopa de fideo con papas y queso 	agua	0.435919791	1000	878
+sopa de fideo con papas y queso 	leche 	0.2092415	480	387
+sopa de fideo con papas y queso 	papa blanca	0.196163906	450	133
+sopa de fideo con papas y queso 	queso	0.087183958	200	412
+sopa de fideo con papas y queso 	fideo de sopa cortadito	0.043591979	100	679
+sopa de fideo con papas y queso 	cebolla blanca	0.018308631	42	91
+sopa de fideo con papas y queso 	aceite	0.004359198	10	440
+sopa de fideo con papas y queso 	sal	0.003923278	9	875
+sopa de fideo con papas y queso 	ajo	0.001307759	3	80
+sopa de lenteja	agua	0.770712909	2000	878
+sopa de lenteja	lenteja	0.073988439	192	57
+sopa de lenteja	plátano verde	0.044315992	115	197
+sopa de lenteja	tomate riñón	0.03044316	79	110
+sopa de lenteja	pimiento verde	0.028709056	74.5	119
+sopa de lenteja	col blanca	0.023121387	60	98
+sopa de lenteja	cebolla paiteña	0.022157996	57.5	92
+sopa de lenteja	ajo	0.003468208	9	80
+sopa de lenteja	sal	0.002312139	6	875
+sopa de lenteja	comino	0.000578035	1.5	871
+sopa de lenteja	orégano	0.000192678	0.5	115
+sopa de morocho	agua	0.512952039	2000	878
+sopa de morocho	hueso de cerdo	0.205180816	800	267
+sopa de morocho	papa	0.12823801	500	133
+sopa de morocho	leche entera	0.064119005	250	387
+sopa de morocho	morocho	0.064119005	250	36
+sopa de morocho	col blanca	0.011541421	45	98
+sopa de morocho	cebolla blanca	0.005385996	21	91
+sopa de morocho	sal	0.00384714	15	875
+sopa de morocho	aceite	0.00256476	10	440
+sopa de morocho	ajo	0.001538856	6	80
+sopa de morocho	pimienta	0.000512952	2	873
+sopa de quinoa con hueso de chancho	agua	0.52279381	1500	878
+sopa de quinoa con hueso de chancho	costilla de cerdo	0.156838143	450	267
+sopa de quinoa con hueso de chancho	papa 	0.104558762	300	133
+sopa de quinoa con hueso de chancho	leche entera	0.08364701	240	387
+sopa de quinoa con hueso de chancho	quinoa	0.078976718	226.6	41
+sopa de quinoa con hueso de chancho	cebolla blanca	0.037153213	106.6	91
+sopa de quinoa con hueso de chancho	mani molido	0.005576467	16	69
+sopa de quinoa con hueso de chancho	aceite	0.003485292	10	440
+sopa de quinoa con hueso de chancho	achiote	0.003485292	10	889
+sopa de quinoa con hueso de chancho	sal	0.003136763	9	875
+sopa de quinoa con hueso de chancho	pimienta	0.000348529	1	873
+sopa timbushca	agua	0.46989169	2000	878
+sopa timbushca	papa	0.213330827	908	133
+sopa timbushca	costilla de res	0.129220215	550	239
+sopa timbushca	carne de res	0.070483753	300	237
+sopa timbushca	tomate riñón	0.027958556	119	110
+sopa timbushca	huevo	0.02490426	106	213
+sopa timbushca	cebolla blanca	0.020675234	44	91
+sopa timbushca	col blanca	0.016916101	72	98
+sopa timbushca	mani tostado	0.013321429	56.7	67
+sopa timbushca	aceite	0.004698917	20	440
+sopa timbushca	sal	0.00281935	12	875
+sopa timbushca	perejil	0.002349458	10	117
+sopa timbushca	culantro	0.001785588	7.6	97
+sopa timbushca	comino	0.000939783	4	871
+sopa timbushca	ajo	0.000704838	3	80
+tallarín de pollo	fideo tallarín	0.41258362	1141	680
+tallarín de pollo	pollo entero	0.3124209	864	327
+tallarín de pollo	tomate riñón	0.171397577	474	110
+tallarín de pollo	aceite	0.023323088	64.5	440
+tallarín de pollo	zanahoria amarilla	0.022419092	62	124
+tallarín de pollo	salsa de tomate	0.018441511	51	746
+tallarín de pollo	cebolla paiteña	0.015187127	42	92
+tallarín de pollo	apio	0.009039957	25	83
+tallarín de pollo	cebolla pblanca	0.007593564	21	91
+tallarín de pollo	mantequilla	0.005423974	15	448
+tallarín de pollo	orégano	0.001084795	3	115
+tallarín de pollo	comino	0.000542397	1.5	871
+tallarín de pollo	pimienta	0.000542397	1.5	873
+tamal lojano de cerdo	maíz amarillo	0.331871345	681	33
+tamal lojano de cerdo	carne de cerdo	0.221247563	454	248
+tamal lojano de cerdo	huevo	0.15497076	318	213
+tamal lojano de cerdo	mantequilla	0.081871345	84	448
+tamal lojano de cerdo	manteca de cerdo	0.054580897	112	447
+tamal lojano de cerdo	arveja	0.03411306	70	95
+tamal lojano de cerdo	zanahoria	0.031189084	64	124
+tamal lojano de cerdo	leche entera	0.029239766	60	387
+tamal lojano de cerdo	pasas	0.027290448	56	852
+tamal lojano de cerdo	sal	0.015107212	15.5	875
+tamal lojano de cerdo	cebolla paiteña	0.009746589	20	92
+tamal lojano de cerdo	ajo	0.005847953	12	80
+tamal lojano de cerdo	comino	0.001461988	3	871
+tamal lojano de cerdo	pimienta	0.001461988	3	873
+tamal lojano de pollo	maíz amarillo	0.331871345	681	33
+tamal lojano de pollo	pollo	0.221247563	454	327
+tamal lojano de pollo	huevo	0.15497076	318	213
+tamal lojano de pollo	mantequilla	0.081871345	84	448
+tamal lojano de pollo	manteca de cerdo	0.054580897	112	447
+tamal lojano de pollo	arveja	0.03411306	70	95
+tamal lojano de pollo	zanahoria	0.031189084	64	124
+tamal lojano de pollo	leche entera	0.029239766	60	387
+tamal lojano de pollo	pasas	0.027290448	56	852
+tamal lojano de pollo	sal	0.015107212	15.5	875
+tamal lojano de pollo	cebolla paiteña	0.009746589	20	92
+tamal lojano de pollo	ajo	0.005847953	12	80
+tamal lojano de pollo	comino	0.001461988	3	871
+tamal lojano de pollo	pimienta	0.001461988	3	873
+tapao arrecho	agua	0.378787879	1200	878
+tapao arrecho	plátano verde	0.199494949	632	197
+tapao arrecho	chorizo	0.143308081	454	261
+tapao arrecho	carne de cerdo	0.07165404	227	246
+tapao arrecho	pollo	0.07165404	227	327
+tapao arrecho	cebolla paiteña	0.056818182	180	92
+tapao arrecho	tomate riñón	0.048295455	153	110
+tapao arrecho	pimiento verde	0.029040404	92	119
+tapao arrecho	sal	0.00094697	3	875
+tapao de pescado	plátano verde	0.413484487	1386	197
+tapao de pescado	agua	0.286396181	960	878
+tapao de pescado	pescado banderón	0.161097852	540	223
+tapao de pescado	tomate riñón	0.045644391	153	110
+tapao de pescado	cebolla paiteña	0.028639618	96	92
+tapao de pescado	pimiento verde	0.021479714	72	119
+tapao de pescado	culantro	0.015513126	52	97
+tapao de pescado	cebolla blanca	0.014319809	48	91
+tapao de pescado	limón	0.007159905	24	168
+tapao de pescado	ajo	0.005369928	18	80
+tapao de pescado	sal	0.000894988	3	875
+torta de fruta del pan	fruta de pan molida	0.368673891	660	157
+torta de fruta del pan	azúcar	0.223438722	400	458
+torta de fruta del pan	huevo	0.148028153	265	213
+torta de fruta del pan	leche entera	0.134063233	240	387
+torta de fruta del pan	queso fresco	0.117305329	210	412
+torta de fruta del pan	esencia de vainilla	0.005585968	10	881
+torta de fruta del pan	canela en polvo	0.002904703	5.2	882
+torta de quinua	quinua	0.284043442	255	41
+torta de quinua	azúcar	0.22277917	200	458
+torta de quinua	harina de trigo	0.190754664	171.25	28
+torta de quinua	huevo	0.17710944	159	213
+torta de quinua	aceite	0.120300752	108	440
+torta de quinua	panela	0.005012531	4.5	465
+tortilla de papa	papa	0.726539496	1135	133
+tortilla de papa	queso fresco	0.238765843	373	412
+tortilla de papa	achiote	0.012802458	20	889
+tortilla de papa	sal	0.012802458	20	875
+tortilla de papa	mantequilla	0.009089745	14.2	448
+tortillas de maíz	harina de maíz	0.30634278	227	23
+tortillas de maíz	queso	0.30634278	227	412
+tortillas de maíz	agua	0.24291498	180	878
+tortillas de maíz	mantequilla	0.114709852	85	448
+tortillas de maíz	yema de huevo	0.021592443	16	212
+tortillas de maíz	sal	0.008097166	6	875
+tostado y habas calpu	papa	0.54732041	480	133
+tostado y habas calpu	maíz amarillo	0.28050171	246	33
+tostado y habas calpu	habas	0.165336374	145	56
+tostado y habas calpu	sal	0.006841505	6	875
+tripa mishqui	res tripa	0.594059406	90	372
+tripa mishqui	mote	0.165016502	25	37
+tripa mishqui	cebolla paiteña	0.099009901	15	92
+tripa mishqui	tomate riñón	0.099009901	15	110
+tripa mishqui	achiote	0.01980198	3	889
+tripa mishqui	ajo	0.00990099	1.5	80
+tripa mishqui	comino	0.00660066	1	871
+tripa mishqui	sal 	0.00660066	1	875
+Viche de camarón	agua	0.486914181	2400	878
+Viche de camarón	yuca	0.123960235	611	135
+Viche de camarón	camarón	0.121728545	600	232
+Viche de camarón	plátano verde	0.060864273	300	197
+Viche de camarón	cebolla paiteña	0.054777845	270	92
+Viche de camarón	leche entera	0.048691418	240	387
+Viche de camarón	mani molido	0.040576182	200	67
+Viche de camarón	choclo tierno	0.028606208	141	106
+Viche de camarón	pimiento verde	0.014607425	72	119
+Viche de camarón	culantro	0.005680665	28	97
+Viche de camarón	aceite de palma	0.004869142	24	440
+Viche de camarón	aliño	0.002637452	13	870
+Viche de camarón	ajo	0.002434571	12	80
+Viche de camarón	sal	0.002434571	12	875
+Viche de camarón	comino	0.000912964	4.5	871
+Viche de camarón	pimienta	0.000304321	1.5	873
+Viche de mondongo	agua	0.515021459	2400	878
+Viche de mondongo	yuca	0.13111588	611	135
+Viche de mondongo	Menudo de res	0.08583691	400	298
+Viche de mondongo	cebolla paiteña	0.057939914	270	92
+Viche de mondongo	leche entera	0.051502146	240	387
+Viche de mondongo	plátano verde	0.049570815	231	197
+Viche de mondongo	mani molido	0.042918455	200	67
+Viche de mondongo	choclo tierno	0.030257511	141	106
+Viche de mondongo	pimiento verde	0.015450644	72	119
+Viche de mondongo	culantro	0.006008584	28	97
+Viche de mondongo	aceite de palma	0.005150215	24	440
+Viche de mondongo	aliño	0.0027897	13	870
+Viche de mondongo	ajo	0.002575107	12	80
+Viche de mondongo	sal	0.002575107	12	875
+Viche de mondongo	comino	0.000965665	4.5	871
+Viche de mondongo	pimienta	0.000321888	1.5	873
+Viche de pescado	agua	0.513418903	2200	878
+Viche de pescado	yuca	0.142590432	611	135
+Viche de pescado	cebolla paiteña	0.063010502	270	92
+Viche de pescado	leche entera	0.056009335	240	387
+Viche de pescado	plátano verde	0.053908985	231	197
+Viche de pescado	pescado albacora	0.052975496	227	218
+Viche de pescado	mani molido	0.046674446	200	68
+Viche de pescado	choclo tierno	0.032905484	141	106
+Viche de pescado	pimiento verde	0.0168028	72	119
+Viche de pescado	culantro	0.006534422	28	97
+Viche de pescado	aceite de palma	0.005600933	24	440
+Viche de pescado	aliño	0.003033839	13	870
+Viche de pescado	ajo	0.002800467	12	80
+Viche de pescado	sal	0.002333722	10	875
+Viche de pescado	comino	0.001050175	4.5	871
+Viche de pescado	pimienta	0.000350058	1.5	873
+yahuarlocro	agua	0.346470333	2000	878
+yahuarlocro	papas	0.25985275	1500	133
+yahuarlocro	leche entera	0.173235167	1000	387
+yahuarlocro	menudo borrego	0.069294067	400	298
+yahuarlocro	sangre de borrego	0.05197055	300	361
+yahuarlocro	cebolla blanca	0.04157644	240	91
+yahuarlocro	pasta de maní	0.022347337	129	69
+yahuarlocro	aguacate	0.011087051	64	76
+yahuarlocro	achiote	0.009354699	54	889
+yahuarlocro	sal	0.005197055	30	875
+yahuarlocro	aceite de palma	0.004157644	24	440
+yahuarlocro	ajo	0.002598528	15	80
+yahuarlocro	comino	0.001299264	7.5	871
+yahuarlocro	culantro	0.001039411	6	97
+yahuarlocro	orégano	0.00034647	2	115
+yahuarlocro	pimienta	0.000173235	1	873
